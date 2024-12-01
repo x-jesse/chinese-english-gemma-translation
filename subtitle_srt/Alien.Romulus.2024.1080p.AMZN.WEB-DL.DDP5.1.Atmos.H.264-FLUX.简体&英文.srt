@@ -1,0 +1,6035 @@
+﻿1
+00:01:31,120 --> 00:01:33,330
+（回波探头）
+
+2
+00:01:36,580 --> 00:01:39,200
+（MU/TH/UR 9001苏醒中）
+
+3
+00:01:41,790 --> 00:01:42,540
+（2142年2月9日）
+
+4
+00:01:42,620 --> 00:01:43,540
+（位置：网罟座泽塔二星系统）
+
+5
+00:01:43,790 --> 00:01:45,950
+（任务目标 范围内）
+
+6
+00:02:14,950 --> 00:02:18,120
+（拦截倒数）
+
+7
+00:02:33,000 --> 00:02:34,870
+（威兰企业）
+
+8
+00:02:48,410 --> 00:02:49,450
+（目标已取得）
+
+9
+00:02:49,700 --> 00:02:50,950
+（返回程序已启动）
+
+10
+00:04:36,660 --> 00:04:43,660
+{\an8}《异形：罗穆路斯》
+
+11
+00:04:36,660 --> 00:04:43,660
+本WEB版外挂字幕由  风吹来的那片云  双语合并
+
+12
+00:05:18,790 --> 00:05:22,080
+全体员工注意…
+Attention all workers. Attention all workers.
+
+13
+00:05:22,250 --> 00:05:25,370
+日班将在15分钟后开始
+Day shift starting in T-minus 15 minutes.
+
+14
+00:05:25,540 --> 00:05:28,160
+农民立刻至食堂报到
+Farmers to report to mess hall immediately.
+
+15
+00:05:29,080 --> 00:05:32,330
+如果出现任何症状 如发烧 咳嗽
+If you are experiencing any symptoms, such as fever, cough…
+
+16
+00:05:32,500 --> 00:05:34,410
+呕吐或呼吸困难
+vomiting, or difficulty breathing…
+
+17
+00:05:34,580 --> 00:05:37,000
+请至医疗区检查
+proceed to the medical bay for examination.
+
+18
+00:05:38,580 --> 00:05:43,540
+殖民地安全与福祉是威兰的第一考量
+The safety and well-being of our colony is Weyland-Yutani's top priority.
+
+19
+00:05:44,370 --> 00:05:46,080
+全体员工注意…
+Attention all workers…
+
+20
+00:05:46,250 --> 00:05:49,120
+听说过有幽闭恐惧症的太空人吗
+Did you hear about the claustrophobic astronaut?
+
+21
+00:05:49,700 --> 00:05:50,700
+他需要空间
+He needed space.
+
+22
+00:05:50,870 --> 00:05:52,580
+我求你别讲了
+I'm begging you, you got to stop.
+
+23
+00:05:52,750 --> 00:05:56,290
+我把钱都花在一条不合的皮带上
+I just spent my full share on a belt that won't fit.
+
+24
+00:05:56,750 --> 00:05:58,000
+我好浪「肥」
+Huge waist.
+
+25
+00:05:58,200 --> 00:05:59,250
+玉米面包给我
+See that cornbread.
+
+26
+00:06:02,040 --> 00:06:04,410
+因为我「实务」经验丰富
+Maybe it's 'cause I'm on this seafood diet.
+
+27
+00:06:04,950 --> 00:06:06,790
+看到食物就吃
+I see food, I eat it.
+
+28
+00:06:08,200 --> 00:06:09,620
+好冷哦
+That's so bad.
+
+29
+00:06:09,790 --> 00:06:11,200
+你以前听到都会笑
+You always laughed at that one.
+
+30
+00:06:11,370 --> 00:06:12,830
+那是我12岁的时候
+Yeah, when I was 12.
+
+31
+00:06:17,540 --> 00:06:19,160
+一定是芬奇先生
+I'm sure it's Mr. Finch.
+
+32
+00:06:20,160 --> 00:06:21,790
+今天就欠他三个月了
+We owe him three months today.
+
+33
+00:06:23,120 --> 00:06:24,500
+他会再打来
+He'll call again.
+
+34
+00:06:26,000 --> 00:06:29,660
+到时我们可能不在这里了
+Well, maybe we won't be here when he does.
+
+35
+00:06:36,750 --> 00:06:38,660
+安迪 跟紧一点
+Andy. Stay close to me.
+
+36
+00:06:41,620 --> 00:06:44,040
+清醒 快清醒
+Wake up. Wake up now.
+
+37
+00:06:44,790 --> 00:06:47,160
+我们都是威兰的奴隶
+We're all Weyland-Yutani slaves.
+
+38
+00:06:47,330 --> 00:06:50,200
+公司供我们吃住 却要我们的命
+The company pays us with food and shelter and takes our lives in exchange.
+
+39
+00:06:50,370 --> 00:06:51,790
+（杰克森星采矿殖民地 人口2781）
+
+40
+00:06:51,950 --> 00:06:53,500
+（距地球65光年 每年日照时数0）
+
+41
+00:06:53,660 --> 00:06:55,080
+别相信他们的谎言
+Don't believe their lies.
+
+42
+00:06:55,700 --> 00:06:57,200
+他们掌控了你
+They own you!
+
+43
+00:06:58,000 --> 00:06:59,540
+安迪…
+Andy, Andy. Hey, hey, hey.
+
+44
+00:06:59,700 --> 00:07:01,040
+过来
+Hey, Andy. Come on. Come on.
+
+45
+00:07:02,910 --> 00:07:04,910
+我做了什么 -那是诈骗
+- What did I do? - It's a scam.
+
+46
+00:07:05,080 --> 00:07:06,660
+球绝不会在你选的杯子底下
+The ball is never under the cup that you pick.
+
+47
+00:07:06,830 --> 00:07:07,660
+那是诈术
+It's a trick.
+
+48
+00:07:07,830 --> 00:07:10,200
+但我要怎么赚钱
+But how am I gonna get the money?
+
+49
+00:07:10,580 --> 00:07:11,580
+什么钱
+Money for what?
+
+50
+00:07:11,750 --> 00:07:15,540
+我们到伊瓦加星买马的钱
+To pay for the horse when we get to Yvaga.
+
+51
+00:07:15,700 --> 00:07:17,450
+你要买马
+You're gonna get a horse?
+
+52
+00:07:17,620 --> 00:07:20,120
+我想叫它雨迪
+I wanna call it Raindy.
+
+53
+00:07:21,330 --> 00:07:22,910
+你懂吗
+Do you get it?
+
+54
+00:07:23,750 --> 00:07:27,040
+雨迪 -我喜欢 很棒
+- Raindy. - No, I like it. Yeah, it's good.
+
+55
+00:07:28,410 --> 00:07:31,200
+你去那边等
+Okay, so you just wait over there.
+
+56
+00:07:31,370 --> 00:07:32,580
+我可能要一下子
+Okay, I might be a minute.
+
+57
+00:07:32,750 --> 00:07:34,040
+（殖民事务处）
+
+58
+00:07:34,200 --> 00:07:35,700
+别惹麻烦 好吗
+Stay out of trouble, all right?
+
+59
+00:07:35,870 --> 00:07:38,660
+全体员工都将获得照顾
+All employees will be seen.
+
+60
+00:07:38,830 --> 00:07:40,000
+祝你好运
+Good luck.
+
+61
+00:07:40,160 --> 00:07:42,370
+请依序排队
+Line up in an orderly fashion.
+
+62
+00:07:42,540 --> 00:07:43,830
+下一位
+Next.
+
+63
+00:07:44,000 --> 00:07:45,790
+请问全名和职业
+Full name and occupation, please.
+
+64
+00:07:45,950 --> 00:07:49,200
+玛丽雨恩卡拉定 务农
+Marie Raines Carradine, ma'am. Farming.
+
+65
+00:07:49,370 --> 00:07:50,580
+我来申请旅行文件
+It's about my travel papers.
+
+66
+00:07:51,330 --> 00:07:52,330
+（达到额度：可转移）
+
+67
+00:07:52,500 --> 00:07:54,250
+我达到额度 应该能离开了
+I met my quota, and I should be free to go now.
+
+68
+00:07:54,660 --> 00:07:55,700
+对吧
+Right?
+
+69
+00:07:55,870 --> 00:07:57,080
+去哪
+Go where?
+
+70
+00:07:57,250 --> 00:07:58,410
+伊瓦加星
+Yvaga.
+
+71
+00:07:59,040 --> 00:08:02,040
+它是独立系统 但已完全地球化
+It's an independent system, but it's fully terraformed.
+
+72
+00:08:03,200 --> 00:08:05,120
+那里看得见太阳
+You can actually see the sun out there.
+
+73
+00:08:05,290 --> 00:08:06,660
+你的父母呢
+Where are your parents?
+
+74
+00:08:08,250 --> 00:08:10,790
+三个周期前去世了
+They died three cycles ago.
+
+75
+00:08:11,250 --> 00:08:13,000
+因为采矿罹患肺病
+Lung disease, from the mines.
+
+76
+00:08:13,910 --> 00:08:15,450
+现在只剩我和我弟
+It's just me and my brother now.
+
+77
+00:08:16,620 --> 00:08:19,160
+他们贩卖希望 使我们甘愿为奴…
+They sell us hope to keep us slaves.
+
+78
+00:08:19,870 --> 00:08:25,540
+他们贩卖希望
+They sell us hope to keep us slaves. Wake up now.
+
+79
+00:08:36,830 --> 00:08:39,700
+抱歉 你还没有资格解约
+I'm sorry, but you're not eligible for contract release yet.
+
+80
+00:08:39,870 --> 00:08:42,370
+因为缺工 你要被转到矿区
+Due to a shortage of workers, you're being transferred to the mines.
+
+81
+00:08:42,540 --> 00:08:43,830
+等等 什么
+Wait, what?
+
+82
+00:08:44,450 --> 00:08:46,500
+不对 我达到要求时数了
+No, no, no, I reached the required hours.
+
+83
+00:08:46,660 --> 00:08:47,910
+你们必须让我走
+You have to let me go.
+
+84
+00:08:48,040 --> 00:08:48,830
+（殖民工作合约）
+
+85
+00:08:48,910 --> 00:08:50,910
+可惜额度提高到两万四千小时
+Unfortunately, quotas have been raised to 24,000 hours…
+
+86
+00:08:51,080 --> 00:08:53,870
+你再过五到六年才能解约
+so you'll be released from contract in another five to six years.
+
+87
+00:08:54,040 --> 00:08:56,000
+谢谢 别忘了公司非常感谢…
+Thank you, and remember the company is really grateful…
+
+88
+00:08:56,160 --> 00:08:57,370
+你的持续贡献
+for your ongoing service.
+
+89
+00:08:57,700 --> 00:08:59,830
+小雨 -喂
+- Rain! - Hey!
+
+90
+00:09:00,000 --> 00:09:01,080
+住手
+Hey, stop!
+
+91
+00:09:01,250 --> 00:09:03,290
+放开他 混蛋
+Get off him! You bastards!
+
+92
+00:09:05,700 --> 00:09:06,790
+我在这里
+I got you, I got you.
+
+93
+00:09:07,250 --> 00:09:08,200
+糟糕 你流血了
+Shit, you're bleeding.
+
+94
+00:09:11,000 --> 00:09:12,040
+好
+Okay.
+
+95
+00:09:14,580 --> 00:09:15,620
+你没事
+You're okay.
+
+96
+00:09:15,790 --> 00:09:17,120
+我把你重置
+I'm resetting you.
+
+97
+00:09:17,450 --> 00:09:18,450
+我帮你
+I got you.
+
+98
+00:09:21,080 --> 00:09:22,250
+没事
+It's okay.
+
+99
+00:09:22,410 --> 00:09:23,830
+我不该让你落单的
+I shouldn't have left you alone.
+
+100
+00:09:29,370 --> 00:09:32,870
+他们贩卖希望 使我们甘愿为奴…
+They sell us hope to keep us slaves.
+
+101
+00:09:33,040 --> 00:09:35,080
+醒醒吧  你们就是奴隶
+Wake up now. They own you.
+
+102
+00:09:38,370 --> 00:09:39,200
+嗨 小雨
+Hi, Rain.
+
+103
+00:09:39,370 --> 00:09:41,040
+抱歉我整天一直打给你
+Look, I'm sorry. I know I've been calling you all day…
+
+104
+00:09:41,200 --> 00:09:44,290
+因为有事情 应该让你知道
+but, look, something's come up, and I think you should know about it.
+
+105
+00:09:44,450 --> 00:09:47,000
+到拖车这边来 带上安迪
+So, come by the trailers and bring Andy.
+
+106
+00:10:17,290 --> 00:10:18,290
+嗨
+Hey.
+
+107
+00:10:19,540 --> 00:10:20,410
+拜…
+Oh, for…
+
+108
+00:10:20,580 --> 00:10:22,000
+游戏结束
+Game over, man.
+
+109
+00:10:22,540 --> 00:10:25,080
+小雨 好久不见
+Sup, Rain? Long time no see.
+
+110
+00:10:25,450 --> 00:10:27,040
+我就说她会出现
+I told you she'd show up.
+
+111
+00:10:27,790 --> 00:10:29,000
+你欠我五块钱
+You owe me five bucks.
+
+112
+00:10:30,200 --> 00:10:31,330
+安迪
+Andy!
+
+113
+00:10:34,250 --> 00:10:36,290
+盲眼矿工怎么会掉进井里
+Why'd the blind miner fall down the well?
+
+114
+00:10:36,450 --> 00:10:37,790
+为什么
+Why?
+
+115
+00:10:39,700 --> 00:10:40,790
+因为他有点瞎
+'Cause he couldn't see that well.
+
+116
+00:10:42,000 --> 00:10:43,330
+拜托别怂恿他
+Please don't encourage him.
+
+117
+00:10:44,080 --> 00:10:46,000
+进去吧 我马上过去
+All right, go inside. I'll be there in a second.
+
+118
+00:10:52,040 --> 00:10:53,330
+小凯 -小雨
+- Kay. - Rain.
+
+119
+00:10:53,500 --> 00:10:54,540
+嗨 -嗨
+- Hi. - Hi!
+
+120
+00:10:54,700 --> 00:10:55,790
+嗨
+Hi.
+
+121
+00:10:56,700 --> 00:10:58,500
+我好想你
+I missed you.
+
+122
+00:10:58,660 --> 00:11:00,500
+我知道我哥也很想你
+And I know my brother missed you, too.
+
+123
+00:11:05,200 --> 00:11:07,080
+真高兴你来了
+I'm really glad you came.
+
+124
+00:11:08,540 --> 00:11:10,580
+我听说了你们爸爸的事
+I heard about your dad.
+
+125
+00:11:10,750 --> 00:11:11,750
+真的很遗憾
+I'm really sorry.
+
+126
+00:11:12,540 --> 00:11:15,790
+在每个周期的雹暴和新疾病之间…
+Well, between the hailstorms and the new diseases every cycle…
+
+127
+00:11:15,950 --> 00:11:17,500
+对 大家都快死了
+Yeah, everybody's dying, right?
+
+128
+00:11:17,700 --> 00:11:19,330
+该给她看吗
+So, should we show her?
+
+129
+00:11:19,830 --> 00:11:21,200
+给我看什么
+Show me what?
+
+130
+00:11:22,000 --> 00:11:25,950
+昨晚 我们把货放上铁索特
+Okay, so, last night, we're loading up the last Tesotek…
+
+131
+00:11:26,120 --> 00:11:28,700
+离地约200哩 突然间…
+we're about 200 miles above the ground, and then all of a sudden…
+
+132
+00:11:30,580 --> 00:11:31,950
+船上收到信号
+The hauler picks up this beacon.
+
+133
+00:11:32,120 --> 00:11:34,120
+纳瓦洛追踪它 结果…
+So Navarro tracks it, and it turns out…
+
+134
+00:11:34,290 --> 00:11:37,200
+有艘巨型威兰船舰在我们头上漂流
+there's this big Wey-Yu ship drifting right above our heads.
+
+135
+00:11:37,370 --> 00:11:38,250
+漂流
+Drifting?
+
+136
+00:11:38,410 --> 00:11:40,040
+退役 废弃了
+Decommissioned. Abandoned.
+
+137
+00:11:40,200 --> 00:11:42,160
+残骸 大概受损或被淘汰了
+Some old relic. It's probably damaged or obsolete.
+
+138
+00:11:42,330 --> 00:11:43,540
+就像那家伙
+Like that guy over there.
+
+139
+00:11:43,700 --> 00:11:44,700
+比约恩
+Bjorn.
+
+140
+00:11:46,040 --> 00:11:48,250
+好 告诉她吧
+Okay, just tell her.
+
+141
+00:11:48,410 --> 00:11:50,000
+我们为何要坐在这里
+Why are we all sitting around here…
+
+142
+00:11:50,160 --> 00:11:53,500
+等待公司永远不会发的旅行许可
+waiting for travel permits that the company are never gonna give to us?
+
+143
+00:11:54,040 --> 00:11:56,080
+那艘船有动力带我们去伊瓦加星
+'Cause that hauler has enough power in it to get us to Yvaga.
+
+144
+00:11:56,250 --> 00:11:59,040
+因为到伊瓦加星要九年
+Because it takes nine years to get to Yvaga…
+
+145
+00:11:59,200 --> 00:12:01,290
+没有冻眠就到不了
+and you can't make that trip without cryo-sleep.
+
+146
+00:12:01,450 --> 00:12:04,040
+退役船还载着许多可用装备
+Decommissioned ships still carry tons of functional equipment.
+
+147
+00:12:04,200 --> 00:12:07,540
+超链接显示那艘船还剩几个冻眠舱
+And the hyperlink shows that ship still has a few pods left.
+
+148
+00:12:11,370 --> 00:12:14,540
+你们想闯入威兰的船
+You want to break into a Weyland-Yutani ship 
+
+149
+00:12:14,620 --> 00:12:17,160
+偷走高度管制装备
+and steal highly regulated equipment?
+
+150
+00:12:17,330 --> 00:12:18,540
+捷足先登啊
+Before someone else does.
+
+151
+00:12:20,450 --> 00:12:21,660
+你们疯了
+You guys are insane.
+
+152
+00:12:21,830 --> 00:12:22,950
+当然 -才怪
+- Well, of course we are. - No. No, we're not.
+
+153
+00:12:23,120 --> 00:12:24,330
+这是… -我也这么说
+- This is… - That's what I said.
+
+154
+00:12:24,500 --> 00:12:25,700
+你会帮我们吗
+Are you gonna help us?
+
+155
+00:12:28,120 --> 00:12:29,910
+抱歉 需要我做什么
+Sorry, what do you need me for?
+
+156
+00:12:32,080 --> 00:12:33,080
+安迪
+Andy.
+
+157
+00:12:33,500 --> 00:12:35,160
+我们需要用到安迪 -安迪
+- We need to use Andy. - Andy?
+
+158
+00:12:35,330 --> 00:12:36,160
+嗯
+Mm-hmm.
+
+159
+00:12:36,330 --> 00:12:39,080
+他是威兰合成人 能跟母亲沟通
+He's a Weyland-Yutani synthetic. He speaks Mother.
+
+160
+00:12:39,250 --> 00:12:40,620
+他能进入船上的终端机
+He can access a terminal on the ship to get us in 
+
+161
+00:12:40,700 --> 00:12:42,200
+让我们轻松进出
+and out without a fuss.
+
+162
+00:12:42,370 --> 00:12:43,620
+只有那样才能进去
+It's the only way to get in.
+
+163
+00:12:43,790 --> 00:12:45,870
+要是我们被逮到呢
+Okay, but what if we get caught?
+
+164
+00:12:46,040 --> 00:12:48,500
+获得旅行许可的机会就没了
+It'll ruin our chances of ever getting a travel permit.
+
+165
+00:12:48,660 --> 00:12:50,200
+好 小雨不去
+Right, Rain's not comin'.
+
+166
+00:12:51,200 --> 00:12:52,620
+不然你让我们带安迪去
+How about you let us take Andy then?
+
+167
+00:12:53,410 --> 00:12:55,790
+我才不让我弟自己上去
+I'm not sending my brother up there alone.
+
+168
+00:12:56,540 --> 00:12:57,660
+他不是你弟吧
+He's not your brother though, is he?
+
+169
+00:12:57,830 --> 00:12:59,870
+比约恩 给我闭嘴 -没错啊
+- Bjorn, shut the fuck up. - It's true, though, isn't it?
+
+170
+00:13:00,040 --> 00:13:01,290
+他不是你弟 只是威兰的瑕疵品
+He's not your brother. It's just Wey-Yu damaged goods…
+
+171
+00:13:01,450 --> 00:13:02,910
+你爸在垃圾里找到的
+that your dad found in the trash.
+
+172
+00:13:03,080 --> 00:13:05,000
+如此而已 认清现实吧
+And that's all he is, Rain. So just wake up.
+
+173
+00:13:06,000 --> 00:13:06,830
+我们走
+Let's go.
+
+174
+00:13:07,000 --> 00:13:08,580
+小雨 -怎样 我又没说什么
+- Rain? - What? I didn't say anything.
+
+175
+00:13:08,750 --> 00:13:10,080
+小雨 等等
+Rain, wait.
+
+176
+00:13:10,870 --> 00:13:13,000
+抱歉 我表弟有时很机车
+I'm sorry. Listen, I know my cousin can be a dick sometimes, all right?
+
+177
+00:13:13,160 --> 00:13:14,830
+可是他说对了一件事
+But he is right about something.
+
+178
+00:13:15,540 --> 00:13:16,540
+你得认清现实
+You need to wake up.
+
+179
+00:13:16,950 --> 00:13:19,040
+这家公司什么都不会给我们
+Because this company, they're not gonna give us anything.
+
+180
+00:13:19,200 --> 00:13:21,200
+你也明白我们只能放手一搏
+You know that as well as I do. We have to take it.
+
+181
+00:13:25,410 --> 00:13:26,450
+小雨 我…
+Rain, I just…
+
+182
+00:13:27,250 --> 00:13:29,000
+我不想落得跟我们爸妈一样
+I don't want to end up like our parents.
+
+183
+00:13:29,750 --> 00:13:30,950
+你想吗
+Do you?
+
+184
+00:13:36,000 --> 00:13:39,500
+你们的计划有听起来那么容易吗
+Is it as easy as you're making it sound, this plan of yours?
+
+185
+00:13:40,500 --> 00:13:42,410
+你根本不必离开科布伦号
+You won't even have to get out of the Corbelan.
+
+186
+00:13:42,830 --> 00:13:44,540
+这点我能保证
+That much I can promise you, okay?
+
+187
+00:13:48,660 --> 00:13:50,120
+好啦 你愿意吗
+Come on. What do you say?
+
+188
+00:14:14,450 --> 00:14:16,000
+比约恩 快 走了
+Bjorn, hurry up, let's go.
+
+189
+00:14:20,160 --> 00:14:23,040
+好 我要发动了 启动电池
+All right, I'm starting her up. Batteries on.
+
+190
+00:14:25,540 --> 00:14:26,540
+很好
+Lovely.
+
+191
+00:14:28,330 --> 00:14:29,620
+给我看氢气引擎
+Could I get hydro, please?
+
+192
+00:14:30,790 --> 00:14:31,790
+通讯控制台
+Comm panel.
+
+193
+00:14:33,790 --> 00:14:34,830
+地面扰流板
+Ground spoilers.
+
+194
+00:14:35,000 --> 00:14:36,080
+准备就绪
+They are armed.
+
+195
+00:14:37,040 --> 00:14:38,160
+第一次上太空吗
+First time in space, huh?
+
+196
+00:14:38,330 --> 00:14:39,330
+对
+Yeah.
+
+197
+00:14:40,620 --> 00:14:41,620
+你也是吗
+You too?
+
+198
+00:14:43,040 --> 00:14:44,040
+燃油汞
+Fuel pump.
+
+199
+00:14:44,200 --> 00:14:46,120
+开启 -两个太空菜鸟来了
+- On. - Two space virgins coming through.
+
+200
+00:14:46,450 --> 00:14:48,620
+好好看看窗外
+Right, take a good look outside the window…
+
+201
+00:14:48,790 --> 00:14:50,870
+我觉得我们不会回来了
+'cause the way I see it, we're never coming back.
+
+202
+00:15:04,250 --> 00:15:05,290
+还好吗
+You good?
+
+203
+00:15:05,450 --> 00:15:06,450
+我很好
+I'm good.
+
+204
+00:15:07,450 --> 00:15:08,450
+会很顺利啦
+Yeah. It's gonna be all right.
+
+205
+00:15:27,870 --> 00:15:29,250
+现在还觉得这是好主意吗
+Are you sure this is a good idea now?
+
+206
+00:15:29,410 --> 00:15:30,500
+当然 老爸
+Sure, Dad.
+
+207
+00:15:36,120 --> 00:15:37,200
+强重力来了
+Here comes the crush.
+
+208
+00:15:56,370 --> 00:15:57,750
+就是这样
+That's how it's done, bitch.
+
+209
+00:16:53,950 --> 00:16:54,830
+那是…
+Is that…
+
+210
+00:16:56,750 --> 00:16:58,000
+对
+Yeah.
+
+211
+00:16:58,160 --> 00:16:59,830
+那是我们的太阳
+That is our sun.
+
+212
+00:17:12,000 --> 00:17:14,660
+人家说伊瓦加星有绝美的夕阳
+They say Yvaga has the most incredible sunsets.
+
+213
+00:17:14,830 --> 00:17:16,250
+我看过
+I've seen them.
+
+214
+00:17:19,160 --> 00:17:20,290
+在梦里
+In my dreams.
+
+215
+00:17:21,250 --> 00:17:23,250
+我等不及陪你一起看
+I can't wait to see them with you.
+
+216
+00:17:26,700 --> 00:17:27,700
+嗯
+Yeah.
+
+217
+00:17:30,790 --> 00:17:32,620
+听说冻眠会让好多年…
+You know, I heard that cryo-sleep just makes years…
+
+218
+00:17:32,790 --> 00:17:34,330
+感觉像狂饮一夜
+feel like one night of heavy drinkin' apparently.
+
+219
+00:17:34,500 --> 00:17:36,540
+等明天在伊瓦加星醒来
+So when we wake up in Yvaga tomorrow…
+
+220
+00:17:37,620 --> 00:17:39,120
+我们就会宿醉
+we'll wake up with a hangover.
+
+221
+00:17:48,410 --> 00:17:49,540
+在那里
+There she is.
+
+222
+00:17:51,870 --> 00:17:53,250
+那不是船
+That's not a ship.
+
+223
+00:17:53,620 --> 00:17:54,830
+不是
+No.
+
+224
+00:17:55,830 --> 00:17:57,580
+好大 那是什么
+Fuck, that's big. What is that?
+
+225
+00:17:57,750 --> 00:17:59,750
+退役的前哨站 不知道
+Decommissioned outpost? I don't know.
+
+226
+00:17:59,910 --> 00:18:01,330
+应该是被拖进我们的轨道
+Probably got dragged into our orbit.
+
+227
+00:18:01,500 --> 00:18:03,410
+纳瓦洛 麻烦靠近点
+Okay, Navarro, let's get closer, please.
+
+228
+00:18:03,580 --> 00:18:05,620
+好 跟它同步旋转
+Okay. I'm gonna match its roll.
+
+229
+00:18:21,580 --> 00:18:23,120
+（警告）
+
+230
+00:18:23,200 --> 00:18:24,700
+危险物接近警报
+Hazard proximity alert.
+
+231
+00:18:26,000 --> 00:18:26,870
+怎么了
+What's wrong?
+
+232
+00:18:27,040 --> 00:18:29,450
+小行星带比我想的近了一点
+It's just the belt's a bit closer than I thought.
+
+233
+00:18:31,370 --> 00:18:32,370
+距离多远
+How long?
+
+234
+00:18:33,910 --> 00:18:35,580
+差不多36小时
+It's 36 hours, give or take.
+
+235
+00:18:35,750 --> 00:18:36,620
+距离什么
+Till what?
+
+236
+00:18:36,790 --> 00:18:39,540
+太空站撞上小行星带
+Before the station crashes against the rings.
+
+237
+00:18:39,700 --> 00:18:40,870
+抱歉 什么
+Sorry, what?
+
+238
+00:18:41,790 --> 00:18:43,950
+你说什么 听起来不妙
+What did you just say? That doesn't sound very good.
+
+239
+00:18:44,120 --> 00:18:45,250
+36小时
+36 hours.
+
+240
+00:18:45,410 --> 00:18:47,000
+我们进出只要30分钟
+We should be in and out in 30 minutes.
+
+241
+00:18:47,950 --> 00:18:48,950
+对吧
+Yeah?
+
+242
+00:18:49,580 --> 00:18:50,410
+安迪
+Andy.
+
+243
+00:18:50,580 --> 00:18:51,500
+顶多
+Yeah, tops.
+
+244
+00:18:52,200 --> 00:18:54,450
+你确定要这么做吗
+Are you sure you wanna do this?
+
+245
+00:18:55,580 --> 00:18:57,790
+我只有一项指令
+I have just one directive.
+
+246
+00:18:58,330 --> 00:19:00,120
+为小雨的最佳利益着想
+To do what's best for Rain.
+
+247
+00:19:01,330 --> 00:19:03,040
+你爸写的
+Your dad wrote it.
+
+248
+00:19:03,700 --> 00:19:04,700
+对
+Yeah.
+
+249
+00:19:05,790 --> 00:19:07,450
+还有一堆冷笑话
+That and too many dad jokes.
+
+250
+00:19:07,620 --> 00:19:09,000
+我很乐意…
+I'm happy…
+
+251
+00:19:09,910 --> 00:19:11,080
+协助
+to help.
+
+252
+00:19:16,160 --> 00:19:17,660
+到那边要小心
+Be careful out there.
+
+253
+00:19:33,790 --> 00:19:35,540
+快点 两分钟后对接
+Okay, hurry up. We're docking in two minutes.
+
+254
+00:19:38,000 --> 00:19:39,040
+穿上
+Put that on.
+
+255
+00:19:39,200 --> 00:19:40,700
+为什么要穿这个
+Now, why I gotta put this on for?
+
+256
+00:19:40,870 --> 00:19:42,160
+你的蛋蛋才不会冻坏
+So you don't freeze your balls off.
+
+257
+00:19:42,330 --> 00:19:44,870
+别再扯到我的蛋蛋 不健康
+Mate, you gotta stop obsessing about my balls, man. It's unhealthy.
+
+258
+00:19:45,040 --> 00:19:46,290
+再说我就把它们切掉
+Keep talking and I'll chop 'em off.
+
+259
+00:19:46,450 --> 00:19:48,290
+原来是你自己很哈
+Aw, you really want 'em for yourself, don't you?
+
+260
+00:19:48,450 --> 00:19:49,660
+要看我的蛋蛋吗
+Hey, you want me to show you my balls or something?
+
+261
+00:19:49,830 --> 00:19:50,950
+给我闭嘴
+Oh, shut up a minute.
+
+262
+00:19:51,120 --> 00:19:52,500
+拿手套
+Gloves, here, take these.
+
+263
+00:19:53,080 --> 00:19:55,370
+不行 别乱碰
+Hey! No. Stop touching shit.
+
+264
+00:19:55,540 --> 00:19:57,750
+过来 -比约恩 别烦他
+- Come over here. - Bjorn, leave him alone, for fuck's sake.
+
+265
+00:19:58,870 --> 00:19:59,950
+安迪 别理他
+Andy, take no notice.
+
+266
+00:20:00,120 --> 00:20:02,120
+他弄坏东西与我无关
+All right, okay, won't be my fault when he breaks somethin'.
+
+267
+00:20:10,370 --> 00:20:12,250
+前面有合成舱门 我要对接了
+There's a synth hatch right ahead. I'm gonna dock.
+
+268
+00:20:12,410 --> 00:20:13,950
+收到 慢慢过去
+Copy that. Just bring us in slow.
+
+269
+00:20:40,950 --> 00:20:42,410
+靠 里面超冷
+Oh, fuck me, it's cold in there.
+
+270
+00:20:43,330 --> 00:20:44,160
+那是什么
+What's that?
+
+271
+00:20:44,500 --> 00:20:45,870
+温度扫描仪
+It's a temp-scanner.
+
+272
+00:20:46,750 --> 00:20:48,290
+能带我们去找冻眠舱
+It's gonna lead us to the pods.
+
+273
+00:20:50,700 --> 00:20:52,580
+压力够
+Okay, compression is good enough.
+
+274
+00:20:52,750 --> 00:20:54,870
+氧气太稀薄 无法呼吸
+Oxygen is too thin to breathe.
+
+275
+00:20:55,040 --> 00:20:55,870
+安迪
+Andy…
+
+276
+00:20:56,330 --> 00:20:57,160
+换你
+you're up.
+
+277
+00:20:57,660 --> 00:20:59,000
+该表现一下了
+It's your time to shine.
+
+278
+00:21:05,040 --> 00:21:06,700
+赞 安迪
+Yes! Andy!
+
+279
+00:21:06,870 --> 00:21:07,950
+漂亮
+Beautiful work.
+
+280
+00:21:08,370 --> 00:21:09,330
+好
+Okay.
+
+281
+00:21:11,250 --> 00:21:13,000
+恭喜 你破处了
+Congrats. You're not a virgin anymore.
+
+282
+00:21:14,370 --> 00:21:15,200
+好
+All right.
+
+283
+00:21:25,870 --> 00:21:27,120
+走吧
+Okay, let's go.
+
+284
+00:21:59,580 --> 00:22:00,410
+靠
+Fuck.
+
+285
+00:22:00,580 --> 00:22:02,410
+我们应该进入零重力状态了
+Guys, it looks like we're in zero-g.
+
+286
+00:22:02,830 --> 00:22:04,450
+我的肚子感觉得到
+Yeah, I can feel it in my stomach.
+
+287
+00:22:09,950 --> 00:22:10,950
+那是什么
+Wait, what's that?
+
+288
+00:22:11,120 --> 00:22:12,410
+重力产生器
+Gravity generators.
+
+289
+00:22:12,620 --> 00:22:15,120
+离线后仍定时自我清除
+When offline, they still purge themselves every few minutes.
+
+290
+00:22:15,410 --> 00:22:17,290
+以免这里爆炸
+Prevents the place from blowing up.
+
+291
+00:22:21,290 --> 00:22:23,410
+靠 我肚子又有感觉了
+Oh, fuck me, there goes my stomach again.
+
+292
+00:22:24,370 --> 00:22:25,700
+好 正前方
+Okay, straight ahead.
+
+293
+00:23:03,000 --> 00:23:05,500
+根据扫描仪 冻眠舱应该在这里
+According to the scanner, the pods should be in here.
+
+294
+00:23:34,200 --> 00:23:35,200
+天啊
+Jesus.
+
+295
+00:23:35,620 --> 00:23:36,910
+安迪 还好吗
+Andy, you good?
+
+296
+00:23:37,080 --> 00:23:38,000
+还好
+Yeah.
+
+297
+00:23:44,330 --> 00:23:47,000
+好消息 我看到冻眠舱了
+All right, great news. I've got eyes on the pods.
+
+298
+00:23:51,830 --> 00:23:52,660
+靠
+Fuck!
+
+299
+00:23:56,160 --> 00:23:57,000
+比约恩 还好吗
+Bjorn, you okay?
+
+300
+00:23:57,950 --> 00:23:59,000
+靠
+Fuck!
+
+301
+00:23:59,700 --> 00:24:01,540
+我屁眼裂开了
+I think I fractured my asshole.
+
+302
+00:24:06,370 --> 00:24:08,870
+重力清除不是闹着玩的
+Fuckin' hell. Don't fuck with this gravity purge, man.
+
+303
+00:24:14,790 --> 00:24:16,250
+（系统启动）
+
+304
+00:24:24,660 --> 00:24:27,000
+幸好这残骸里还有电
+Thank God, there's still some power left in this relic.
+
+305
+00:24:28,370 --> 00:24:29,120
+（氧气复原）
+
+306
+00:24:43,080 --> 00:24:44,200
+（重力产生器上线）
+
+307
+00:24:44,290 --> 00:24:45,290
+小心 重力回来了
+Okay, watch out. Gravity's coming back.
+
+308
+00:24:46,910 --> 00:24:48,160
+他妈的
+Fuckin' hell.
+
+309
+00:24:54,910 --> 00:24:56,370
+好 来吧
+All right, here we go.
+
+310
+00:24:56,830 --> 00:24:58,000
+看这里有什么
+Let's see what we got.
+
+311
+00:24:59,250 --> 00:25:00,200
+好
+Okay.
+
+312
+00:25:01,910 --> 00:25:04,790
+（3.2年）
+
+313
+00:25:04,950 --> 00:25:05,790
+可恶
+Shit.
+
+314
+00:25:05,950 --> 00:25:07,080
+什么问题
+What's the problem?
+
+315
+00:25:07,830 --> 00:25:08,830
+冻眠舱燃料不足
+Pods don't have enough fuel.
+
+316
+00:25:09,330 --> 00:25:10,160
+什么意思
+What do you mean?
+
+317
+00:25:10,330 --> 00:25:12,290
+他们装了停滞三年用的燃料
+They're loaded up for three years in stasis.
+
+318
+00:25:12,450 --> 00:25:14,120
+可是到伊瓦加星要九年
+Yeah, but it takes nine years to get to Yvaga, mate.
+
+319
+00:25:14,290 --> 00:25:16,370
+我知道 我明白
+Yeah, I know, I know. I'm aware of that.
+
+320
+00:25:16,540 --> 00:25:17,870
+他妈的
+Fuckin' hell.
+
+321
+00:25:18,040 --> 00:25:19,290
+我知道 我就知道
+I knew it. I fuckin' knew it.
+
+322
+00:25:19,450 --> 00:25:20,450
+我就知道 -别激动
+- I knew it. - Just relax.
+
+323
+00:25:20,620 --> 00:25:21,700
+也许你们应该回来
+Maybe you guys should just come back.
+
+324
+00:25:21,870 --> 00:25:23,000
+还不能放弃
+No, no, we're not givin' up now.
+
+325
+00:25:25,250 --> 00:25:26,250
+伊瓦加星是最近的系统
+Yvaga's the nearest system.
+
+326
+00:25:26,410 --> 00:25:28,410
+现在该怎么办
+So what are we supposed to do now? Huh?
+
+327
+00:25:29,330 --> 00:25:30,790
+怎么办 -闭嘴
+- What are we gonna do? - Shut up.
+
+328
+00:25:31,500 --> 00:25:34,290
+读数很强 一定是附近的冷冻仓库
+Okay, strong reading. Must be a cryo depot nearby.
+
+329
+00:25:34,450 --> 00:25:35,870
+那里应该有更多燃料
+We should find more fuel there.
+
+330
+00:25:36,370 --> 00:25:39,370
+纳瓦洛 我要弹射紧急逃生艇
+Navarro, I'm ejecting the EEV.
+
+331
+00:25:39,660 --> 00:25:40,660
+过来 安迪
+Come on, Andy.
+
+332
+00:25:40,830 --> 00:25:42,620
+你们接逃生艇 我们找燃料
+You guys pick it up while we get the cryo-fuel.
+
+333
+00:26:02,910 --> 00:26:03,910
+等等
+Hold.
+
+334
+00:26:05,160 --> 00:26:07,000
+四百码外 正前方
+Yeah, 400 yards away, dead ahead.
+
+335
+00:26:08,620 --> 00:26:09,750
+干嘛用军人的口令
+What's with the military shit?
+
+336
+00:26:09,910 --> 00:26:11,910
+什么 -你刚说的那些
+- What? - All that military shit.
+
+337
+00:26:12,080 --> 00:26:13,450
+效率高 -是吗
+- Well, it's effective. - Is it?
+
+338
+00:26:14,700 --> 00:26:15,700
+又很酷 -才怪
+- And cool. - It's not very cool.
+
+339
+00:26:15,870 --> 00:26:16,910
+你看起来很蠢
+You just look like a twat.
+
+340
+00:26:17,870 --> 00:26:19,080
+对不起 -别激动
+- I'm sorry. - All right, chill.
+
+341
+00:26:19,250 --> 00:26:20,160
+继续前进
+Let's keep it movin'.
+
+342
+00:26:20,330 --> 00:26:21,330
+再这样我扁你
+If you do that again, I'll fuck you up.
+
+343
+00:26:21,500 --> 00:26:23,120
+比约恩 别闹了 -懂吗
+- Bjorn, back off! - You understand?
+
+344
+00:26:23,290 --> 00:26:24,660
+只要他别来惹我
+Just as long as he stays out of my way.
+
+345
+00:26:24,830 --> 00:26:26,790
+他干嘛对他这么坏
+Why is he being such a dick to him?
+
+346
+00:26:27,370 --> 00:26:29,450
+因为发生在他妈身上的事
+Because of what happened to his mom.
+
+347
+00:26:30,160 --> 00:26:31,000
+什么意思
+What do you mean?
+
+348
+00:26:31,160 --> 00:26:33,330
+上个周期 矿区瓦斯外泄
+Last cycle, there was a gas leak in the mines…
+
+349
+00:26:33,500 --> 00:26:35,410
+有个合成人决定封闭矿区
+so a synthetic made the call to seal 
+
+350
+00:26:35,500 --> 00:26:37,370
+但比约恩的妈妈还困在里头
+them with Bjorn's mom still trapped inside.
+
+351
+00:26:37,540 --> 00:26:38,540
+什么
+What?
+
+352
+00:26:38,870 --> 00:26:40,370
+合成人不能伤害人类
+Synthetics can't harm humans.
+
+353
+00:26:40,540 --> 00:26:43,540
+为了救十几个人 牺牲了三名矿工
+It sacrificed three miners to save a dozen.
+
+354
+00:26:45,750 --> 00:26:46,910
+他们可以那么做
+That, they can do.
+
+355
+00:26:52,450 --> 00:26:53,580
+太可怕了
+That's terrible.
+
+356
+00:27:21,500 --> 00:27:22,330
+（紧急逃生艇弹射启动）
+
+357
+00:27:22,500 --> 00:27:23,250
+（注意 弹射）
+
+358
+00:27:38,290 --> 00:27:40,540
+进来…
+I got you, I got you.
+
+359
+00:27:42,250 --> 00:27:44,080
+快啊…
+Come on, come on, come on.
+
+360
+00:27:44,160 --> 00:27:45,700
+（货物舱）
+
+361
+00:27:45,790 --> 00:27:47,370
+慢慢来
+Easy, easy.
+
+362
+00:27:52,290 --> 00:27:53,160
+非常好
+Good job.
+
+363
+00:27:58,620 --> 00:27:59,450
+小凯
+Kay!
+
+364
+00:28:00,500 --> 00:28:01,910
+小凯
+Kay! Hey, hey, hey.
+
+365
+00:28:02,080 --> 00:28:03,540
+嘿…
+Hey, hey, hey.
+
+366
+00:28:03,950 --> 00:28:05,580
+我在这里 没事
+I'm right here. I'm right here. You're okay.
+
+367
+00:28:06,000 --> 00:28:07,540
+我去看看冻眠舱
+I'm gonna go check on the pods.
+
+368
+00:28:25,790 --> 00:28:27,620
+不 别担心
+No, no. Don't worry.
+
+369
+00:28:28,540 --> 00:28:29,580
+我没生病
+I'm not sick.
+
+370
+00:28:30,250 --> 00:28:31,250
+那是怎么回事
+What's wrong, then?
+
+371
+00:28:33,080 --> 00:28:34,290
+没事
+Nothing is.
+
+372
+00:28:37,830 --> 00:28:39,160
+天啊
+Oh, girl.
+
+373
+00:28:42,200 --> 00:28:43,250
+孩子的爸是谁
+Who's the father?
+
+374
+00:28:44,540 --> 00:28:45,790
+一个混蛋
+Some asshole.
+
+375
+00:28:47,750 --> 00:28:50,950
+别告诉我哥 好吗
+Just don't tell my brother, okay?
+
+376
+00:28:52,250 --> 00:28:53,620
+他烦恼够多了
+- He has enough things to worry about. - No.
+
+377
+00:28:53,790 --> 00:28:55,200
+我不会说
+I won't say anything.
+
+378
+00:28:56,120 --> 00:28:58,950
+我很高兴这宝宝能见到太阳
+I'm just happy this baby will get to see the sun.
+
+379
+00:29:12,910 --> 00:29:15,750
+（威兰企业 打造美好世界）
+
+380
+00:29:21,700 --> 00:29:23,160
+应该快到了
+I think we're almost there.
+
+381
+00:29:27,620 --> 00:29:29,040
+好 纳瓦洛
+Okay, Navarro.
+
+382
+00:29:29,200 --> 00:29:31,870
+5B气锁室 找到燃料后就从这里出去
+Airlock 5-B, that's our way out once we find this cryo-fuel.
+
+383
+00:29:32,040 --> 00:29:32,870
+马上过去
+On my way.
+
+384
+00:29:33,040 --> 00:29:35,830
+欢迎莅临文艺复兴太空站
+Welcome to the Renaissance Space Station…
+
+385
+00:29:36,000 --> 00:29:39,790
+威兰研发中心
+the center of Weyland-Yutani Research and Development.
+
+386
+00:29:40,200 --> 00:29:43,250
+本站分成两部分
+The station is divided into two halves…
+
+387
+00:29:43,540 --> 00:29:45,290
+罗穆路斯与雷穆斯
+Romulus and Remus…
+
+388
+00:29:46,540 --> 00:29:51,540
+各自致力改善人类在外太空中的角色
+each dedicated to our quest to improve mankind's role in outer space.
+
+389
+00:29:54,290 --> 00:29:56,160
+这里害我起鸡皮疙瘩
+This place gives me the creeps.
+
+390
+00:29:57,410 --> 00:30:00,330
+听过有矿工失去左半边吗
+Did you hear about the miner who lost his left side?
+
+391
+00:30:01,950 --> 00:30:02,950
+他现在是右翼分子
+He's all right now.
+
+392
+00:30:03,120 --> 00:30:04,540
+懂吗 他是右翼分子
+Do you get it? He's all right.
+
+393
+00:30:04,700 --> 00:30:06,410
+你能关闭自己吗
+Can you turn yourself off, please?
+
+394
+00:30:07,580 --> 00:30:08,950
+你说你很紧张
+You said you were nervous…
+
+395
+00:30:09,120 --> 00:30:10,910
+我想让你… -天啊
+- and I was trying to make sure you were… - Jesus!
+
+396
+00:30:11,080 --> 00:30:13,330
+我等不及要进冻眠舱
+You know, I can't wait to get in them pods…
+
+397
+00:30:13,500 --> 00:30:15,250
+再也别见到你 懂吗
+and never see you again, you know that?
+
+398
+00:30:17,370 --> 00:30:19,080
+你在伊瓦加星会见到我
+You'll see me in Yvaga.
+
+399
+00:30:19,250 --> 00:30:20,580
+你没有要去伊瓦加星
+No, you're not going to Yvaga.
+
+400
+00:30:20,750 --> 00:30:21,870
+比约恩 别说了
+Bjorn, stop!
+
+401
+00:30:22,450 --> 00:30:23,540
+真的吗
+I'm not?
+
+402
+00:30:23,700 --> 00:30:24,620
+算你狠
+Well done.
+
+403
+00:30:24,790 --> 00:30:26,040
+她没告诉你吗
+Oh, she didn't tell you?
+
+404
+00:30:26,950 --> 00:30:29,750
+对 那是非威兰系统
+Yeah, yeah, it's a non-Weyland-Yutani system…
+
+405
+00:30:31,250 --> 00:30:33,040
+不准有假人
+so no fake people allowed.
+
+406
+00:30:34,660 --> 00:30:37,040
+我偏好用「人造人」
+I prefer the term "artificial person" myself.
+
+407
+00:30:39,580 --> 00:30:40,580
+安迪 听好
+Andy, look.
+
+408
+00:30:41,540 --> 00:30:43,950
+小雨带着你可能会坐牢
+Rain could end up in prison if she takes you with her.
+
+409
+00:30:44,580 --> 00:30:46,500
+如果你们待在杰克森星
+And if you guys stay in Jackson, it's just a matter of time…
+
+410
+00:30:46,660 --> 00:30:48,830
+你迟早又会被公司停用
+before you get decommissioned again by the company.
+
+411
+00:30:49,500 --> 00:30:50,660
+懂吗
+You understand?
+
+412
+00:30:51,540 --> 00:30:53,450
+你在船上看守冻眠舱
+I need you on the ship to guard the pods.
+
+413
+00:30:54,290 --> 00:30:55,500
+等我们到那里…
+But once we get there…
+
+414
+00:30:56,870 --> 00:30:58,250
+停用
+Decommish.
+
+415
+00:30:58,410 --> 00:30:59,290
+永久关闭
+Lights out for good.
+
+416
+00:31:01,120 --> 00:31:01,950
+说完了吗
+You done?
+
+417
+00:31:02,330 --> 00:31:03,500
+实话实说而已
+Just tellin' the truth.
+
+418
+00:31:07,200 --> 00:31:08,950
+没关系
+That's okay.
+
+419
+00:31:09,620 --> 00:31:12,870
+对小雨好就是对我好
+If it's what's best for Rain, it's what's best for me.
+
+420
+00:31:16,750 --> 00:31:18,500
+你是好人 安迪
+You're a good guy, Andy.
+
+421
+00:31:19,870 --> 00:31:21,080
+我们会想你的
+We're all gonna miss you.
+
+422
+00:31:27,040 --> 00:31:28,160
+所以他不知道
+So he didn't know?
+
+423
+00:31:29,540 --> 00:31:32,250
+我就是不忍心告诉他
+I just did not have the heart to tell him.
+
+424
+00:31:34,160 --> 00:31:35,450
+你不必难过
+You shouldn't feel bad.
+
+425
+00:31:38,200 --> 00:31:39,040
+可恶
+Shit.
+
+426
+00:31:39,200 --> 00:31:42,160
+别为了安迪浪费一辈子
+You're not gonna throw your whole life away for Andy's sake.
+
+427
+00:31:44,330 --> 00:31:46,950
+他不在乎 那对他不重要
+He doesn't care. It doesn't matter to him.
+
+428
+00:31:48,700 --> 00:31:50,160
+他不…
+Okay? He's not…
+
+429
+00:31:51,330 --> 00:31:52,950
+不是真的
+you know, real.
+
+430
+00:32:16,750 --> 00:32:18,540
+讯号来自这里
+The signal's coming from in here.
+
+431
+00:32:28,370 --> 00:32:30,620
+你不是说这里停用了
+Thought you said this place was decommissioned.
+
+432
+00:32:30,790 --> 00:32:31,790
+对
+Yeah.
+
+433
+00:32:32,830 --> 00:32:34,540
+看起来不像
+Doesn't look decommissioned to me.
+
+434
+00:32:34,830 --> 00:32:36,000
+没错
+No, it doesn't.
+
+435
+00:32:36,160 --> 00:32:38,160
+但确实遭到弃置
+But it's definitely deserted.
+
+436
+00:32:38,450 --> 00:32:40,080
+安迪 你看
+Hey, Andy, look at this.
+
+437
+00:32:41,370 --> 00:32:43,450
+用这个应该能电死合成人
+I could probably fry a synthetic with one of these…
+
+438
+00:32:44,250 --> 00:32:45,790
+只要我增强电力
+if I just amp up the juices.
+
+439
+00:32:49,370 --> 00:32:50,750
+我可能带这个走
+Hey, you know, I might take this with me, actually.
+
+440
+00:32:50,910 --> 00:32:51,750
+够了
+All right, enough.
+
+441
+00:32:51,910 --> 00:32:54,000
+以免你有什么怪念头
+Just in case you have any fucking funny ideas.
+
+442
+00:32:56,160 --> 00:32:58,120
+玩笑 我开玩笑的
+It's a joke. I was joking.
+
+443
+00:32:58,290 --> 00:32:59,290
+搞屁啊
+What the fuck?
+
+444
+00:32:59,790 --> 00:33:00,790
+小心
+Watch out.
+
+445
+00:33:11,410 --> 00:33:12,500
+靠
+Shit.
+
+446
+00:33:17,580 --> 00:33:18,580
+只是个合成人
+It's only a synthetic.
+
+447
+00:33:20,580 --> 00:33:21,580
+靠
+Fuck.
+
+448
+00:33:22,540 --> 00:33:24,540
+我差点以为是真人
+I thought it was a real person there for a second.
+
+449
+00:33:24,700 --> 00:33:26,000
+那里发生什么事
+What happened in there?
+
+450
+00:33:26,290 --> 00:33:28,080
+不知道 也许是化学物质外泄
+Don't know. A chemical spill, maybe.
+
+451
+00:33:29,250 --> 00:33:32,000
+燃料一定在那房间 我们拿了就走
+The fuel must be in that room. Let's grab it and get the fuck out of here.
+
+452
+00:33:36,250 --> 00:33:37,370
+（冷冻室）
+
+453
+00:33:37,540 --> 00:33:39,250
+好 安迪
+All right. Andy?
+
+454
+00:33:53,830 --> 00:33:55,000
+比约恩 请拿手电筒
+Bjorn, take the torch please.
+
+455
+00:33:55,160 --> 00:33:58,620
+（冷冻燃料 危险）
+
+456
+00:34:00,200 --> 00:34:02,040
+我觉得这里没有冻眠舱
+I don't think there's any pods in here.
+
+457
+00:34:02,200 --> 00:34:05,330
+只是冷却设备 用同样的燃料
+Nah, just cooling equipment. Uses the same type of fuel, though.
+
+458
+00:34:11,660 --> 00:34:12,660
+太好了
+Yes.
+
+459
+00:34:14,580 --> 00:34:15,790
+45公斤
+Forty-five Ks.
+
+460
+00:34:15,950 --> 00:34:18,080
+到伊瓦加星绰绰有余
+It's more than enough fuel to get us to Yvaga.
+
+461
+00:34:18,950 --> 00:34:21,200
+比约恩 麻烦帮我一下
+Right. Bjorn, give me a hand with this, please.
+
+462
+00:34:30,750 --> 00:34:32,250
+比约恩 数到三往外拉
+Bjorn, pull it out on three, all right?
+
+463
+00:34:32,660 --> 00:34:33,750
+准备好了吗
+- Ready? - Uh-huh.
+
+464
+00:34:33,910 --> 00:34:35,120
+一 二…
+One, two…
+
+465
+00:34:36,250 --> 00:34:37,250
+三
+three.
+
+466
+00:34:37,500 --> 00:34:38,330
+靠
+Fuck!
+
+467
+00:34:38,790 --> 00:34:40,000
+靠 -我的手指
+- Fuck. - My fingers.
+
+468
+00:34:41,660 --> 00:34:42,830
+我手指没感觉了
+I can't feel my fingers.
+
+469
+00:34:50,870 --> 00:34:52,120
+好痛 我的手冻坏了
+It really hurts. Just froze my hands off.
+
+470
+00:34:53,120 --> 00:34:53,950
+怎么了 -靠
+- What's happening? - Fuck.
+
+471
+00:34:54,330 --> 00:34:56,540
+不知道 某种紧急封锁
+Don't know. It's some kind of emergency lockdown.
+
+472
+00:34:56,700 --> 00:34:58,120
+安迪 开门
+Andy, the door.
+
+473
+00:35:00,660 --> 00:35:01,750
+（请联络科学官）
+
+474
+00:35:02,120 --> 00:35:03,200
+他没有权限
+Shit, he doesn't have the clearance.
+
+475
+00:35:03,370 --> 00:35:04,290
+什么意思
+What does that mean?
+
+476
+00:35:04,450 --> 00:35:05,660
+没有开门的权限
+Doesn't have the clearance to open the door.
+
+477
+00:35:06,580 --> 00:35:09,080
+你是说他能重启整艘船
+So you're trying to tell me that he can fucking reboot the entire ship…
+
+478
+00:35:09,250 --> 00:35:11,160
+却不能打开一个普通房间的门
+but can't open a random fucking door to a random room?
+
+479
+00:35:11,330 --> 00:35:13,540
+显然那不是普通的房间
+Well, obviously, that's no random room.
+
+480
+00:35:17,620 --> 00:35:18,750
+快啊
+Come on!
+
+481
+00:35:19,200 --> 00:35:20,410
+快啊
+Come on!
+
+482
+00:35:38,000 --> 00:35:39,540
+放心 我们会救他们出来
+Hey, don't worry. We'll get 'em out of there.
+
+483
+00:35:43,410 --> 00:35:46,620
+如果安迪打不开 我们应该也没辙
+If Andy can't open those doors, I doubt we'll have better luck.
+
+484
+00:35:47,830 --> 00:35:50,000
+他是威兰合成人
+He's a Weyland-Yutani synthetic…
+
+485
+00:35:50,160 --> 00:35:51,790
+我们这是非法入侵
+and we're just trespassing.
+
+486
+00:35:52,330 --> 00:35:54,120
+对 有什么想法吗
+Yeah, so you got any ideas?
+
+487
+00:35:54,830 --> 00:35:55,830
+还没
+Not yet.
+
+488
+00:35:58,620 --> 00:35:59,910
+我想在这里
+I think it's in here.
+
+489
+00:36:03,620 --> 00:36:04,620
+比约恩
+Bjorn!
+
+490
+00:36:06,450 --> 00:36:07,450
+泰勒
+Tyler!
+
+491
+00:36:12,000 --> 00:36:13,040
+他们在里面
+They're in there.
+
+492
+00:36:17,700 --> 00:36:18,830
+你在干嘛
+Hey, what are you doing?
+
+493
+00:36:19,000 --> 00:36:20,000
+如果这个模组还能用
+If this module is still working, 
+
+494
+00:36:20,080 --> 00:36:22,700
+我想传它的凭证给安迪
+I can try to transfer its credentials to Andy.
+
+495
+00:36:23,080 --> 00:36:25,000
+更高的权限应该能开门
+A higher clearance should open that door.
+
+496
+00:36:27,000 --> 00:36:29,500
+（标本完成 打印暂停）
+
+497
+00:37:00,540 --> 00:37:02,160
+可恶 卡住了
+Shit. It's stuck.
+
+498
+00:37:04,750 --> 00:37:06,660
+这里面好热
+It's so hot in here, man.
+
+499
+00:37:24,000 --> 00:37:26,410
+（X光灯 贴紧身体使用）
+
+500
+00:37:31,410 --> 00:37:32,450
+哇
+Whoa.
+
+501
+00:37:34,200 --> 00:37:35,200
+超赞
+Sick.
+
+502
+00:37:35,370 --> 00:37:36,700
+别乱碰这里的东西
+Yeah, maybe try not to touch anything in here.
+
+503
+00:37:36,870 --> 00:37:37,790
+好 老妈
+Yeah, okay, Mom.
+
+504
+00:37:42,330 --> 00:37:43,620
+快帮我 帮我
+Help me! Help!
+
+505
+00:37:43,790 --> 00:37:44,790
+糟糕 该怎么做
+Oh, no! What do I do?
+
+506
+00:37:44,950 --> 00:37:46,410
+模组 拿出来
+The module. Take it out!
+
+507
+00:37:52,040 --> 00:37:53,160
+你还好吗
+You okay?
+
+508
+00:37:54,580 --> 00:37:55,790
+太奇怪了
+That was fucked up.
+
+509
+00:37:56,040 --> 00:37:56,950
+拿去
+Here.
+
+510
+00:37:57,500 --> 00:37:58,580
+我看看
+Let me see.
+
+511
+00:38:00,500 --> 00:38:01,870
+对 好
+Yes, okay.
+
+512
+00:38:02,200 --> 00:38:03,250
+好了
+All right.
+
+513
+00:38:03,410 --> 00:38:05,250
+搞定 -嘿
+- Got it. - Hey.
+
+514
+00:38:05,410 --> 00:38:06,410
+小雨
+Rain.
+
+515
+00:38:07,700 --> 00:38:09,410
+从那个合成人身上取出的
+This is from that synthetic.
+
+516
+00:38:10,700 --> 00:38:12,410
+放在安迪的模组上
+Try putting it on Andy's module.
+
+517
+00:38:16,700 --> 00:38:17,700
+真的很抱歉
+I'm so sorry.
+
+518
+00:38:18,790 --> 00:38:20,000
+我们离开这里吧
+Let's just get outta here.
+
+519
+00:38:21,700 --> 00:38:22,700
+安迪
+Andy?
+
+520
+00:38:25,330 --> 00:38:26,620
+试试看
+All right, let's see.
+
+521
+00:38:30,120 --> 00:38:30,950
+好
+Okay.
+
+522
+00:38:35,950 --> 00:38:36,950
+靠
+Fuck.
+
+523
+00:38:37,120 --> 00:38:39,080
+小雨 我做错了什么 他不动了
+Rain, did I do something wrong? He's just frozen up.
+
+524
+00:38:39,250 --> 00:38:40,540
+他在重开机
+He's just rebooting.
+
+525
+00:38:40,700 --> 00:38:42,450
+需要几分钟
+It's gonna take a couple of minutes.
+
+526
+00:39:05,500 --> 00:39:07,120
+我拿东西包扎你的手指
+Here, let me get you something for those fingers.
+
+527
+00:39:15,120 --> 00:39:16,410
+那是什么鬼
+The fuck was that?
+
+528
+00:39:19,660 --> 00:39:21,080
+在那边待一下子
+All right, stay there a second.
+
+529
+00:39:25,200 --> 00:39:26,200
+泰勒
+Tyler?
+
+530
+00:39:30,950 --> 00:39:32,290
+你们在做什么
+Hey, what are you guys doing?
+
+531
+00:39:41,700 --> 00:39:42,540
+比约恩
+Bjorn?
+
+532
+00:39:43,290 --> 00:39:44,540
+别闹了 快起来
+Stop playing around, man. Just get up.
+
+533
+00:39:44,700 --> 00:39:46,000
+我没有 水里有东西
+I'm not playing around. There's something in the water.
+
+534
+00:39:46,660 --> 00:39:47,500
+什么东西
+What do you mean? What is it?
+
+535
+00:39:47,660 --> 00:39:50,370
+不知道 水里有东西
+I don't know. I don't know what it is. There's something in the fuckin' water.
+
+536
+00:39:55,120 --> 00:39:56,120
+比约恩
+Bjorn!
+
+537
+00:39:59,410 --> 00:40:00,450
+靠
+Fuck!
+
+538
+00:40:00,750 --> 00:40:01,750
+那是什么
+What the fuck was that?
+
+539
+00:40:07,290 --> 00:40:08,200
+安迪
+Andy!
+
+540
+00:40:10,580 --> 00:40:11,580
+比约恩
+Bjorn!
+
+541
+00:40:17,910 --> 00:40:19,750
+比约恩 快想办法救他
+Bjorn, help him! Do something!
+
+542
+00:40:19,910 --> 00:40:20,950
+比约恩
+Bjorn!
+
+543
+00:40:25,580 --> 00:40:27,120
+泰勒 -对不起…
+- Tyler! - I'm sorry. I'm sorry.
+
+544
+00:40:29,450 --> 00:40:30,450
+快点
+Come on!
+
+545
+00:40:30,870 --> 00:40:32,790
+快来帮我 -不要…
+- Come on! Help me! - No, stop. Stop. Don't…
+
+546
+00:40:32,950 --> 00:40:34,580
+不 纳瓦洛 -那些东西会出来
+- No! Navarro! - Those things will get out.
+
+547
+00:40:34,660 --> 00:40:36,540
+过来…如果它们过来…
+If they come in here… If they come in… If they come…
+
+548
+00:40:36,870 --> 00:40:37,700
+不
+No!
+
+549
+00:40:41,580 --> 00:40:42,790
+靠…
+Fuck. Fuck.
+
+550
+00:41:09,330 --> 00:41:10,910
+安迪 我们走
+Andy! Let's go!
+
+551
+00:41:13,080 --> 00:41:14,080
+快 比约恩
+Go! Bjorn!
+
+552
+00:41:14,250 --> 00:41:15,250
+安迪 开门
+Andy, the door!
+
+553
+00:41:16,290 --> 00:41:17,290
+比约恩 -快点
+- Bjorn! - Come on, come on.
+
+554
+00:41:17,450 --> 00:41:18,450
+快点…
+Come on, come on, come on!
+
+555
+00:41:18,870 --> 00:41:19,700
+（获准进入）
+
+556
+00:41:21,330 --> 00:41:22,370
+快出来 -快点…
+- Get out of there! - Come on, come on, come on!
+
+557
+00:41:22,540 --> 00:41:23,500
+快… -快走
+- Come on, come on, come on! - Go, go, go!
+
+558
+00:41:25,000 --> 00:41:26,250
+快出来…
+Get out of there! Get out of there!
+
+559
+00:41:32,040 --> 00:41:34,040
+比约恩 快 -快走
+- Bjorn, come on! - Go! Go!
+
+560
+00:41:39,500 --> 00:41:40,870
+安迪 关门
+Andy, the door!
+
+561
+00:41:49,910 --> 00:41:51,160
+别动 -我知道
+- Stay still. Stay still. - I know!
+
+562
+00:41:54,580 --> 00:41:55,620
+它掐住她了
+It's choking her.
+
+563
+00:41:56,250 --> 00:41:57,580
+快住手
+Stop! You gotta stop! Hey!
+
+564
+00:41:57,950 --> 00:41:58,950
+它掐住她了 -可恶
+- It's choking her! - Shit.
+
+565
+00:41:59,540 --> 00:42:01,000
+住手 比约恩
+Stop! Bjorn!
+
+566
+00:42:01,160 --> 00:42:02,750
+比约恩 快住手
+Bjorn, stop! For fuck's sake, stop!
+
+567
+00:42:03,200 --> 00:42:05,200
+住手 -它要杀死她吗
+- Stop! - What's it doin'? Is it fuckin' killin' her?
+
+568
+00:42:05,370 --> 00:42:07,620
+我认为那不是它的目的
+I do not believe that's what the creature is doing.
+
+569
+00:42:08,080 --> 00:42:09,080
+不是
+No.
+
+570
+00:42:09,580 --> 00:42:10,580
+安迪
+Andy?
+
+571
+00:42:12,200 --> 00:42:13,950
+根据那些囊的扩张节奏
+Based on the rhythmic dilatation of those bladders…
+
+572
+00:42:14,120 --> 00:42:16,410
+而且与她呼吸模式同步
+and its synchronization to her breathing patterns…
+
+573
+00:42:16,580 --> 00:42:19,250
+我猜它在输氧给她 让她活命
+I'd surmise it's feeding her oxygen to keep her alive.
+
+574
+00:42:19,790 --> 00:42:21,580
+但我不知道用意何在
+For what purpose, I do not know.
+
+575
+00:42:23,330 --> 00:42:24,870
+你到底是谁
+Sorry, who the fuck are you?
+
+576
+00:42:27,120 --> 00:42:29,500
+我是ND255威兰合成人
+I'm an ND-255 Weyland-Yutani synthetic.
+
+577
+00:42:29,950 --> 00:42:32,160
+为执行采矿与安全任务而建造
+Originally built for mining and safety tasks.
+
+578
+00:42:33,290 --> 00:42:34,330
+你们都叫我安迪
+You guys call me Andy.
+
+579
+00:42:34,500 --> 00:42:35,750
+是那个模组
+It's that module.
+
+580
+00:42:37,580 --> 00:42:38,580
+对
+Yes.
+
+581
+00:42:40,200 --> 00:42:42,500
+新模组不只升级我的凭证
+That new module didn't just upgrade my credentials.
+
+582
+00:42:42,790 --> 00:42:44,290
+还大幅升级我的人工智能
+It substantially updated my AI…
+
+583
+00:42:44,450 --> 00:42:47,160
+此时也在修补我的运动系统
+and it's mending my motor systems as we speak.
+
+584
+00:42:48,410 --> 00:42:50,250
+逾期许久的升级
+A most overdue upgrade, I must say.
+
+585
+00:42:50,410 --> 00:42:51,450
+我要烧死这东西 -等等
+- Shit. I'mma fucking fry this thing. - Okay, wait.
+
+586
+00:42:51,620 --> 00:42:53,330
+不要 -为什么
+- Don't! - Why not?
+
+587
+00:42:53,500 --> 00:42:55,500
+那么强的电流会使它尾屈肌严重收缩
+That amount of current will violently contract its tail flexors…
+
+588
+00:42:55,660 --> 00:42:56,750
+弄断她的脖子
+and will break her neck.
+
+589
+00:42:56,910 --> 00:42:58,120
+你有更好的办法吗
+So what, you got a better idea?
+
+590
+00:42:58,290 --> 00:42:59,450
+不然怎么办
+What should we fucking do then, huh?
+
+591
+00:43:01,450 --> 00:43:03,200
+安迪 你知道怎么救她吗
+Andy, do you know how to help her?
+
+592
+00:43:04,250 --> 00:43:06,620
+可惜我的知识库并未改变
+I'm afraid my knowledge database has not really changed.
+
+593
+00:43:07,000 --> 00:43:09,910
+我不知道这是什么生物 如何移除它
+I do not know what this creature is or how to remove it safely.
+
+594
+00:43:12,950 --> 00:43:14,950
+但现场有人可能知道
+But there's someone in this room who might.
+
+595
+00:43:43,040 --> 00:43:44,080
+（合成人员A2系列）
+
+596
+00:43:44,160 --> 00:43:45,200
+（上线：卢克科学官）
+
+597
+00:43:45,370 --> 00:43:47,620
+我需要守护Z01化合物
+I need to secure Z-01 compound.
+
+598
+00:43:47,790 --> 00:43:49,620
+这是优先任务 其他任务取消
+Mission's priority. All other priorities rescinded.
+
+599
+00:43:49,790 --> 00:43:51,410
+必须完成此任务
+Must complete the mission.
+
+600
+00:43:51,790 --> 00:43:52,910
+抱歉
+I'm sorry…
+
+601
+00:43:53,160 --> 00:43:54,660
+你的任务失败了
+but your mission has failed.
+
+602
+00:43:54,830 --> 00:43:56,870
+什么 不 我…
+What? No, I…
+
+603
+00:44:02,330 --> 00:44:04,410
+你能告诉我们如何救她吗
+Can you tell us what we can do to help her?
+
+604
+00:44:05,660 --> 00:44:07,950
+不要救她 快跑
+You don't help her. You run.
+
+605
+00:44:08,830 --> 00:44:10,660
+不管你们怎么进来 快离开
+Get out, however you got in.
+
+606
+00:44:10,830 --> 00:44:12,040
+不…等一下
+No, no, no. Wait, whoa, whoa.
+
+607
+00:44:12,500 --> 00:44:14,540
+我们不会丢下她 你懂吗
+Nah, we're not fuckin' leavin' her, okay? You understand?
+
+608
+00:44:14,700 --> 00:44:16,830
+那就大发慈悲 马上结束她的生命
+Then have mercy and end her life now.
+
+609
+00:44:17,410 --> 00:44:20,120
+否则 你们都会死
+If not, you all die.
+
+610
+00:44:22,250 --> 00:44:23,790
+他究竟在说什么
+So what the fuck is he sayin'?
+
+611
+00:44:23,950 --> 00:44:25,200
+它在对她做什么
+What's it doing to her?
+
+612
+00:44:25,370 --> 00:44:28,120
+这只拟寄生物将破胸体植入她体内
+The parasitoid is implanting the Plagiarus Praepotens in her.
+
+613
+00:44:28,290 --> 00:44:29,450
+你说什么
+I beg your pardon?
+
+614
+00:44:29,620 --> 00:44:32,200
+一个种子 将与她DNA结合
+A seed that will amalgamate with her DNA 
+
+615
+00:44:32,290 --> 00:44:33,660
+迅速从她体内长出来
+and rapidly grow out of her.
+
+616
+00:44:33,830 --> 00:44:35,250
+她体内会长出什么
+What's gonna grow out of her?
+
+617
+00:44:46,950 --> 00:44:49,750
+XX121异形
+XX121 Xenomorph.
+
+618
+00:44:50,620 --> 00:44:55,200
+20年前我们拖船首次接触这种标本
+One of our towing ships first made contact with this specimen two decades ago.
+
+619
+00:44:55,370 --> 00:44:58,700
+诺史莫号上七名成员 只有一人幸存
+Of the seven crew members aboard the USS Nostromo, only one survived…
+
+620
+00:44:58,870 --> 00:45:00,910
+将那生物炸出气锁室
+blowing the creature out of the airlock.
+
+621
+00:45:01,700 --> 00:45:03,870
+此后我们一直在寻找它
+We've been searching for it ever since.
+
+622
+00:45:04,580 --> 00:45:07,830
+170天前 我们的研究终止
+170 days ago, our search came to an end…
+
+623
+00:45:08,000 --> 00:45:10,040
+异形的身体被带上船
+and the body of the Xenomorph was brought on board…
+
+624
+00:45:10,700 --> 00:45:12,200
+推测已死亡
+presumed dead.
+
+625
+00:45:12,370 --> 00:45:13,660
+当然
+But of course…
+
+626
+00:45:13,830 --> 00:45:17,660
+缺少氧气和食物对这种完美生物…
+lack of oxygen and food is of no true consequence to this…
+
+627
+00:45:17,830 --> 00:45:19,250
+影响不大
+perfect organism.
+
+628
+00:45:19,410 --> 00:45:21,410
+但没有什么是真正不死的
+Yet nothing is truly immortal.
+
+629
+00:45:23,160 --> 00:45:24,200
+显而易见
+Clearly.
+
+630
+00:45:24,700 --> 00:45:27,410
+它大肆破坏这座太空站
+It wreaked havoc over this station…
+
+631
+00:45:28,080 --> 00:45:30,660
+直到我们剩下的安全部队射杀它
+until what was left of our security forces shot it dead.
+
+632
+00:45:30,830 --> 00:45:33,410
+却触发它的告别演出
+Only to trigger its swan song.
+
+633
+00:45:34,450 --> 00:45:35,450
+酸性血液
+Acid for blood?
+
+634
+00:45:35,620 --> 00:45:37,330
+硫酸和氢氟酸
+Sulfuric and hydrofluoric.
+
+635
+00:45:37,500 --> 00:45:39,160
+我再次封锁太空站 但为时已晚
+I sealed the station back up, but it was too late.
+
+636
+00:45:39,330 --> 00:45:40,500
+闭嘴
+Hey, shut up!
+
+637
+00:45:40,660 --> 00:45:42,250
+已经没人在乎你的船了
+Nobody cares about your fucking ship anymore.
+
+638
+00:45:42,410 --> 00:45:43,580
+好…
+Okay, okay. Okay.
+
+639
+00:45:44,250 --> 00:45:48,200
+如果用冷冻燃料冷冻尾巴根部呢
+What if we use the cryo-fuel to freeze the root of the tail?
+
+640
+00:45:49,160 --> 00:45:52,000
+如果结冻 它就无法掐住她
+Maybe if it's frozen, it won't choke her.
+
+641
+00:45:53,250 --> 00:45:54,370
+可能有用
+That could work.
+
+642
+00:46:23,330 --> 00:46:24,700
+把它拿下来
+All right, get it off! Get it off!
+
+643
+00:46:46,410 --> 00:46:48,290
+它走了 放开你了
+It's gone. It's off of you. It's off of you.
+
+644
+00:46:49,870 --> 00:46:51,500
+走了…
+It's off. It's off. It's off.
+
+645
+00:46:51,660 --> 00:46:53,200
+你没事了
+You're okay. You're okay.
+
+646
+00:46:53,370 --> 00:46:54,700
+我不会这么笃定
+I wouldn't be so sure.
+
+647
+00:47:00,330 --> 00:47:01,200
+概率有多少
+What are the odds?
+
+648
+00:47:01,370 --> 00:47:03,700
+六成概率对你们朋友不利
+60 to 40 against your friend.
+
+649
+00:47:03,870 --> 00:47:05,040
+什么概率
+What are the odds on what?
+
+650
+00:47:06,870 --> 00:47:08,580
+那只怪物已完成任务
+That the creature's finished its job already.
+
+651
+00:47:11,040 --> 00:47:12,290
+他在说什么
+What is he talking about?
+
+652
+00:47:14,160 --> 00:47:15,410
+听我说
+Listen to me.
+
+653
+00:47:15,750 --> 00:47:18,250
+人类必须经历太多情绪阶段
+Humans go through too many emotional stages…
+
+654
+00:47:18,410 --> 00:47:20,330
+才能接受冷酷但理性
+before accepting the cold, 
+
+655
+00:47:20,500 --> 00:47:22,660
+有时最艰难的途径
+yet rational - sometimes hardest - path.
+
+656
+00:47:22,950 --> 00:47:24,700
+你必须帮他们
+You must help them.
+
+657
+00:47:24,870 --> 00:47:25,870
+你必须帮他们
+You must help them.
+
+658
+00:47:31,120 --> 00:47:32,120
+安迪
+Andy?
+
+659
+00:47:33,120 --> 00:47:34,120
+怎么了 -对不起
+- What's going on? - I'm sorry…
+
+660
+00:47:34,290 --> 00:47:35,700
+不能让她回到船上
+but we can't let her back on the ship.
+
+661
+00:47:35,870 --> 00:47:37,620
+那就麻烦了 -你在干嘛
+- Oh, yeah? That is a problem. - What're you doing?
+
+662
+00:47:37,790 --> 00:47:38,750
+你必须了解
+- You must understand. - You see?
+
+663
+00:47:38,910 --> 00:47:40,120
+什么怪念头 -你在说什么
+- That's what I mean by "funny ideas"! - What're you talking about?
+
+664
+00:47:40,290 --> 00:47:41,330
+不…
+No, he's…
+
+665
+00:47:42,290 --> 00:47:43,540
+不… -他妈的烂咖
+- No! No! - You fuckin' bitch!
+
+666
+00:47:43,910 --> 00:47:45,120
+安迪…
+Hey! Andy! Andy!
+
+667
+00:47:45,450 --> 00:47:46,290
+我们走
+We're gonna go.
+
+668
+00:47:46,450 --> 00:47:47,580
+我在这里
+Hey, hey, hey! I'm right here.
+
+669
+00:47:47,750 --> 00:47:49,250
+我们走 快点
+Let's go, let's go. Come on.
+
+670
+00:47:51,540 --> 00:47:52,540
+泰勒 我们快走
+Tyler, let's go, man! Come on!
+
+671
+00:47:52,700 --> 00:47:53,540
+我在这里 -比约恩 不
+- I'm here. - Bjorn! No.
+
+672
+00:47:53,700 --> 00:47:55,290
+比约恩 不能丢下她
+Bjorn, we're not leaving without them!
+
+673
+00:47:55,660 --> 00:47:56,660
+我在这里 -比约恩
+- I'm here. - Bjorn!
+
+674
+00:47:59,000 --> 00:48:00,620
+他们在哪 -注意听
+- Where are they? - You need to listen.
+
+675
+00:48:00,790 --> 00:48:01,700
+快去发动船 -小雨呢
+- We have to start the ship, okay? - Where's Rain?
+
+676
+00:48:01,870 --> 00:48:02,750
+快去发动船
+Just go and start the ship.
+
+677
+00:48:02,910 --> 00:48:03,910
+原谅我
+Forgive me.
+
+678
+00:48:04,830 --> 00:48:07,120
+我一直是你的负担
+I've been nothing but a burden to you.
+
+679
+00:48:07,290 --> 00:48:10,080
+今天我终于能帮忙
+Today, I can finally help.
+
+680
+00:48:10,500 --> 00:48:12,830
+你不会再把我当小孩了
+And you won't see me as a child anymore.
+
+681
+00:48:15,040 --> 00:48:15,870
+什么
+What?
+
+682
+00:48:16,830 --> 00:48:17,660
+安迪
+Andy!
+
+683
+00:48:17,750 --> 00:48:19,540
+（基因实验室 冻眠实验室）
+
+684
+00:48:27,330 --> 00:48:28,330
+嘿 -比约恩
+- Hey! - Bjorn!
+
+685
+00:48:52,160 --> 00:48:53,000
+靠…
+Fuck, fuck, fuck.
+
+686
+00:48:54,160 --> 00:48:55,000
+纳瓦洛 解除对接
+Navarro, undock!
+
+687
+00:48:55,160 --> 00:48:56,330
+让船脱离
+Undock the ship!
+
+688
+00:48:58,040 --> 00:48:58,910
+（解除对接）
+Undocking initiated.
+
+689
+00:48:59,080 --> 00:49:01,450
+开始解除对接
+
+690
+00:49:01,620 --> 00:49:04,040
+气锁室请净空
+Please clear the airlock.
+
+691
+00:49:16,160 --> 00:49:18,500
+他在干嘛 不能丢下我们
+What the fuck is he doing? They can't just leave without us.
+
+692
+00:49:18,660 --> 00:49:20,450
+他觉得安迪想杀死纳瓦洛
+He thinks Andy's trying to kill Navarro.
+
+693
+00:49:22,120 --> 00:49:23,120
+什么
+What?
+
+694
+00:49:24,450 --> 00:49:25,580
+是吗
+Wait, is he?
+
+695
+00:49:29,450 --> 00:49:30,620
+我不知道
+I don't know.
+
+696
+00:49:34,040 --> 00:49:36,000
+安迪 安迪
+Andy? Andy?
+
+697
+00:49:36,870 --> 00:49:38,620
+安迪 开门
+Andy, open the door.
+
+698
+00:49:44,540 --> 00:49:47,160
+抱歉 我阻止不了他
+I'm sorry. I couldn't stop them.
+
+699
+00:49:48,410 --> 00:49:49,330
+比约恩
+Bjorn?
+
+700
+00:49:49,500 --> 00:49:50,450
+你在干嘛
+Bjorn, what are you doing?
+
+701
+00:49:51,040 --> 00:49:52,790
+你不能丢下我们 回来接我们
+You can't just leave us here. You gotta come back and get us.
+
+702
+00:49:52,950 --> 00:49:55,410
+抱歉 她得先关闭那个神经病
+Sorry, I can't do that until she turns that psychopath off.
+
+703
+00:49:57,660 --> 00:49:58,830
+怎么了
+What's going on?
+
+704
+00:49:59,000 --> 00:50:00,120
+安迪…
+Andy…
+
+705
+00:50:01,790 --> 00:50:04,160
+安迪失灵了 -什么
+- Andy, he's glitchy. - What?
+
+706
+00:50:04,620 --> 00:50:06,040
+我得马上离开这间气锁室
+I just need to get away from this airlock right now.
+
+707
+00:50:06,200 --> 00:50:07,040
+我需要…
+I just need…
+
+708
+00:50:09,450 --> 00:50:10,290
+纳瓦洛
+Navarro?
+
+709
+00:50:10,450 --> 00:50:11,580
+你还好吗
+Are you all right?
+
+710
+00:50:12,410 --> 00:50:14,370
+怎么了 你需要什么
+What's wrong? What do you need?
+
+711
+00:50:20,330 --> 00:50:21,330
+纳瓦洛
+Navarro?
+
+712
+00:50:30,250 --> 00:50:31,410
+天啊
+Oh, God.
+
+713
+00:50:31,580 --> 00:50:33,160
+天啊 那是什么
+Oh, my God, what is that?
+
+714
+00:50:36,450 --> 00:50:38,250
+纳瓦洛 拜托 纳瓦洛
+Navarro, please. Navarro! Navarro!
+
+715
+00:50:38,410 --> 00:50:39,620
+喂…
+Hey, hey, hey.
+
+716
+00:50:40,500 --> 00:50:42,950
+我不知道怎么办 对不起
+I don't know what to do, I'm sorry. I don't know.
+
+717
+00:50:48,950 --> 00:50:49,950
+快说话
+Someone talk to me!
+
+718
+00:50:50,120 --> 00:50:52,080
+小凯 比约恩 纳瓦洛 怎么了
+Kay, Bjorn, Navarro, what's going on?
+
+719
+00:51:02,660 --> 00:51:03,660
+救命啊
+Help!
+
+720
+00:51:04,580 --> 00:51:05,950
+救命啊 -小凯
+- Help! - Kay!
+
+721
+00:51:07,120 --> 00:51:09,790
+怎么搞的
+What's happening? What's happening?
+
+722
+00:51:12,200 --> 00:51:14,120
+拜托别让我死
+Please don't let me die.
+
+723
+00:51:14,870 --> 00:51:16,950
+（警告 燃料）
+
+724
+00:51:17,040 --> 00:51:18,040
+快来人啊
+Someone help!
+
+725
+00:52:19,750 --> 00:52:22,250
+（罗穆路斯机库区2号）
+
+726
+00:53:03,580 --> 00:53:04,580
+比约恩
+Bjorn?
+
+727
+00:53:05,040 --> 00:53:06,040
+小凯
+Kay?
+
+728
+00:53:06,200 --> 00:53:07,370
+我们得去找他们
+We have to go get them.
+
+729
+00:53:08,080 --> 00:53:13,080
+倒数47分钟发生撞击
+T-minus-47 minutes to impact event.
+
+730
+00:53:14,700 --> 00:53:15,700
+完全不合理
+Doesn't make any sense.
+
+731
+00:53:15,870 --> 00:53:17,580
+我以为你说有好几小时
+No, I thought you said we had hours.
+
+732
+00:53:17,750 --> 00:53:20,830
+爆炸使太空站的轴线偏移了几度
+The explosion pushed the station's axis off by a few degrees…
+
+733
+00:53:21,160 --> 00:53:23,250
+造成提早撞击小行星带
+just enough to hit the asteroid belt a lot sooner.
+
+734
+00:53:23,620 --> 00:53:24,870
+他们撞上哪里
+Where did they crash?
+
+735
+00:53:25,580 --> 00:53:27,790
+罗穆路斯机库区 在太空站另一边
+Romulus Hangar Bay, on the other side of the station.
+
+736
+00:53:27,950 --> 00:53:29,160
+好 -我们走
+- Okay. - Let's go.
+
+737
+00:53:37,790 --> 00:53:42,790
+倒数45分钟发生撞击
+T-minus-45 minutes to impact event.
+
+738
+00:53:46,500 --> 00:53:47,750
+（输入存取密码）
+
+739
+00:53:47,830 --> 00:53:50,080
+母亲 Z01化合物的完整性如何
+Mother. What's the integrity of Compound Z-01?
+
+740
+00:53:53,200 --> 00:53:55,500
+（储藏完整性）
+
+741
+00:53:56,620 --> 00:53:58,040
+还有希望
+There's still hope.
+
+742
+00:54:06,750 --> 00:54:09,000
+我们得设法到罗穆路斯舱
+We need to find a way to cross to the Romulus module.
+
+743
+00:54:18,200 --> 00:54:19,200
+不…
+No, no, no.
+
+744
+00:54:19,370 --> 00:54:21,040
+它们一定是从实验室向外扩散
+They must've spread from the lab.
+
+745
+00:54:24,870 --> 00:54:26,160
+没别的路了
+I don't see another way.
+
+746
+00:54:26,330 --> 00:54:27,410
+安迪…
+Andy, can…
+
+747
+00:54:31,330 --> 00:54:32,910
+我脑中听到你的声音
+I heard your voice in my head.
+
+748
+00:54:33,080 --> 00:54:34,120
+在呼唤
+Calling.
+
+749
+00:54:34,620 --> 00:54:37,500
+ND255人造人
+ND-255 artificial person.
+
+750
+00:54:37,830 --> 00:54:41,200
+你这个型号曾是我们移民行动的支柱
+Your model was once the backbone of our colonization efforts…
+
+751
+00:54:41,370 --> 00:54:43,160
+很荣幸能见到你
+and it's an honor to be in your presence.
+
+752
+00:54:43,330 --> 00:54:45,250
+请容我自我介绍
+Please allow me to introduce myself.
+
+753
+00:54:46,250 --> 00:54:47,910
+我是卢克科学官
+I'm Science Officer Rook…
+
+754
+00:54:48,450 --> 00:54:50,750
+现在恳求你提供服务
+and I humbly request your services now.
+
+755
+00:54:51,450 --> 00:54:53,660
+可是我只有一项指令
+I'm afraid I have just one directive.
+
+756
+00:54:54,250 --> 00:54:57,250
+为了最佳利益…
+To do what's best for…
+
+757
+00:54:58,620 --> 00:55:00,950
+你升级后有了新指令
+Your upgrade came with a new directive.
+
+758
+00:55:01,540 --> 00:55:02,950
+它会覆盖旧指令
+It overrides the old one.
+
+759
+00:55:03,620 --> 00:55:04,660
+了解
+I see.
+
+760
+00:55:05,950 --> 00:55:07,500
+是什么要求…
+What's required of me…
+
+761
+00:55:08,000 --> 00:55:08,830
+长官
+Sir?
+
+762
+00:55:09,370 --> 00:55:10,750
+完成我们的任务
+To finish our mission.
+
+763
+00:55:19,040 --> 00:55:20,290
+安迪 -安迪
+- Andy! - Andy!
+
+764
+00:55:21,330 --> 00:55:22,160
+安迪
+Andy.
+
+765
+00:55:22,500 --> 00:55:23,870
+很抱歉
+My apologies.
+
+766
+00:55:24,250 --> 00:55:26,500
+我在为我们的状况请教朋友
+I was consulting my friend about our situation.
+
+767
+00:55:26,660 --> 00:55:27,500
+跟我来
+Follow me.
+
+768
+00:55:29,160 --> 00:55:30,700
+我们的状况 你…
+What? Our situation? How do you…
+
+769
+00:55:30,870 --> 00:55:32,830
+安迪…
+Andy! Andy!
+
+770
+00:55:41,040 --> 00:55:42,500
+这些拟寄生物没有眼睛
+The parasitoids have no eyes.
+
+771
+00:55:43,080 --> 00:55:46,580
+它们靠声音追踪你 但主要靠热信号
+They track you by sound, but primarily, by heat signature.
+
+772
+00:55:46,750 --> 00:55:47,700
+什么
+What?
+
+773
+00:55:48,540 --> 00:55:49,660
+你的体温
+Your body temperature.
+
+774
+00:55:49,830 --> 00:55:50,660
+好
+Right.
+
+775
+00:55:50,870 --> 00:55:54,000
+如果提高室温到与体温相同
+If we raise the temperature in the room to match our bodies…
+
+776
+00:55:54,160 --> 00:55:56,120
+它们就看不见我们吗
+would that make us invisible to them?
+
+777
+00:55:56,370 --> 00:55:57,910
+如果我们够安静的话
+If we're quiet enough?
+
+778
+00:55:58,700 --> 00:56:00,290
+只有一个办法能知道
+Just one way to find out.
+
+779
+00:56:07,870 --> 00:56:08,830
+嘿
+Hey.
+
+780
+00:56:11,750 --> 00:56:13,040
+都是我的错
+This is all my fault.
+
+781
+00:56:16,040 --> 00:56:17,290
+没错
+Yeah, it is.
+
+782
+00:56:19,580 --> 00:56:21,870
+你的 我的 大家的错
+Yours, mine, and everyone else's.
+
+783
+00:56:24,540 --> 00:56:26,580
+我们决定一起行动的
+We all decided to do this together.
+
+784
+00:56:31,160 --> 00:56:32,500
+我们会找到他们的
+We'll get to them.
+
+785
+00:56:35,370 --> 00:56:40,370
+倒数40分钟发生撞击
+T-minus 40 minutes to impact event.
+
+786
+00:56:59,250 --> 00:57:01,950
+（危急）
+
+787
+00:57:11,830 --> 00:57:14,370
+走廊温度目前与你们的体温相同
+The hallway's temperature is now equal to your bodies…
+
+788
+00:57:14,540 --> 00:57:16,500
+那些生物应该看不见你们
+so the creatures should not be able to see you.
+
+789
+00:57:16,660 --> 00:57:20,200
+但压力 恐惧和恐慌会使体温上升
+But stress, fear, panic will spike your temperature…
+
+790
+00:57:20,370 --> 00:57:21,700
+你们就会曝光
+and you'll be exposed.
+
+791
+00:57:21,870 --> 00:57:23,620
+汗水 鸡皮疙瘩
+Sweat, goosebumps.
+
+792
+00:57:23,790 --> 00:57:25,910
+那是皮肤试图让身体降温
+That's your skin trying to cool your body down.
+
+793
+00:57:26,080 --> 00:57:27,540
+请留意那些反应
+So watch out for those.
+
+794
+00:57:28,450 --> 00:57:31,330
+保持冷静与安静
+Now, stay calm and stay quiet.
+
+795
+01:00:26,620 --> 01:00:28,580
+快啊…
+Come on. Come on!
+
+796
+01:00:28,950 --> 01:00:32,290
+快啊…
+Come on! Come on!
+
+797
+01:00:41,500 --> 01:00:42,950
+好了
+Okay. Okay.
+
+798
+01:00:43,120 --> 01:00:45,120
+比约恩 我们走
+Bjorn, let's go. Let's go.
+
+799
+01:00:58,040 --> 01:00:58,870
+靠
+Fuck!
+
+800
+01:00:59,290 --> 01:01:00,450
+拜托别过来
+Stay back, stay back, please.
+
+801
+01:01:05,500 --> 01:01:06,330
+靠
+Fuck!
+
+802
+01:01:09,910 --> 01:01:11,580
+不 靠
+No! Fuck!
+
+803
+01:01:46,870 --> 01:01:47,700
+泰勒
+Tyler.
+
+804
+01:01:49,540 --> 01:01:50,370
+快啊
+Come on.
+
+805
+01:01:57,950 --> 01:01:58,790
+小凯
+Kay…
+
+806
+01:02:01,040 --> 01:02:02,500
+天啊 泰勒
+Oh, my God, Tyler…
+
+807
+01:02:02,660 --> 01:02:04,330
+小凯 我在这里
+Kay, I'm here. I'm here.
+
+808
+01:02:04,910 --> 01:02:07,040
+泰勒 拜托救我
+Please, Tyler, help me.
+
+809
+01:02:07,200 --> 01:02:09,250
+大家都死了 我门打不开
+Everyone's dead. I can't open this door.
+
+810
+01:02:09,830 --> 01:02:10,700
+拜托
+Please.
+
+811
+01:02:16,540 --> 01:02:18,160
+有红色按键的控制杆
+The lever with the red button…
+
+812
+01:02:18,330 --> 01:02:19,750
+左边有钥匙
+there's a key to the left.
+
+813
+01:02:21,660 --> 01:02:22,660
+救命啊
+Help.
+
+814
+01:02:22,830 --> 01:02:23,910
+我找不到
+I can't find it.
+
+815
+01:02:24,080 --> 01:02:25,540
+没有钥匙 泰勒
+There's not a key. There isn't a key, Tyler.
+
+816
+01:02:28,200 --> 01:02:29,620
+在那里 一定在
+It'll be there. It has to be there.
+
+817
+01:02:29,790 --> 01:02:31,370
+钥匙 好
+A key. Okay, okay.
+
+818
+01:02:51,080 --> 01:02:52,620
+我找到钥匙了
+I have the key. I have the key.
+
+819
+01:02:57,700 --> 01:02:58,700
+天啊
+Oh, my God.
+
+820
+01:03:20,160 --> 01:03:21,000
+快跑
+Run.
+
+821
+01:03:22,410 --> 01:03:23,870
+快跑
+Go! Go!
+
+822
+01:03:47,950 --> 01:03:48,950
+快跑
+Wait!
+
+823
+01:03:49,410 --> 01:03:50,410
+等等
+Wait!
+
+824
+01:03:51,080 --> 01:03:52,080
+快啊
+Come on!
+
+825
+01:04:01,660 --> 01:04:03,540
+你差点害他进不来
+You almost closed the door on him.
+
+826
+01:04:03,700 --> 01:04:06,580
+对 但并没有
+Yes, but I didn't.
+
+827
+01:04:06,750 --> 01:04:09,660
+我精准计算时间 比上次成功
+I calculated the timing perfectly with more success than last time.
+
+828
+01:04:10,830 --> 01:04:11,830
+你们不同意吗
+Won't you agree?
+
+829
+01:04:13,000 --> 01:04:14,540
+它们快接近了
+We're getting close.
+
+830
+01:04:14,700 --> 01:04:15,910
+我们快走
+Let's move.
+
+831
+01:04:16,000 --> 01:04:17,250
+（罗穆路斯机库区）
+
+832
+01:04:17,330 --> 01:04:22,330
+倒数30分钟发生撞击
+T-minus 30 minutes to impact event.
+
+833
+01:04:22,580 --> 01:04:26,580
+（罗穆路斯 雷穆斯）
+
+834
+01:06:49,000 --> 01:06:51,000
+拒绝存取
+Access denied.
+
+835
+01:06:57,660 --> 01:06:58,500
+小凯
+Kay…
+
+836
+01:06:59,910 --> 01:07:01,450
+我们在这里 没事…
+We're here. We're here. It's all right, it's all right, it's all right.
+
+837
+01:07:01,910 --> 01:07:02,950
+安迪 开门
+Andy, open the door.
+
+838
+01:07:03,830 --> 01:07:04,910
+没事
+It's all right.
+
+839
+01:07:06,000 --> 01:07:07,080
+我们会救你出来
+We're gonna get you out.
+
+840
+01:07:07,660 --> 01:07:08,830
+泰勒 开门
+Tyler, open the door.
+
+841
+01:07:09,000 --> 01:07:09,950
+快开门
+Open the door. Come on.
+
+842
+01:07:12,080 --> 01:07:13,250
+天啊
+Oh, my God.
+
+843
+01:07:13,410 --> 01:07:14,620
+看着我 小凯 -安迪 开门
+- Look at me. Kay, Kay, Kay. Look at me. - Andy, open the door.
+
+844
+01:07:14,790 --> 01:07:17,120
+小凯 看着我 我会救你出来
+Kay, look at me. Look at me. It's all right. I'm gonna get you out.
+
+845
+01:07:17,290 --> 01:07:18,830
+安迪 开门 别闹了 -你干嘛
+- Andy, open the door. Stop fucking around. - What are you doing?
+
+846
+01:07:19,410 --> 01:07:20,250
+别看那边
+Don't look over there.
+
+847
+01:07:20,410 --> 01:07:21,250
+安迪
+Andy.
+
+848
+01:07:21,450 --> 01:07:22,540
+泰勒 怎么了
+Tyler, what's wrong?
+
+849
+01:07:22,700 --> 01:07:24,620
+你马上开门 懂吗
+Hey, I need you to open that door right now, okay?
+
+850
+01:07:24,790 --> 01:07:26,790
+那只怪物就等着我们开门
+That's what the creature's waiting for us to do.
+
+851
+01:07:27,790 --> 01:07:29,200
+拜托快打开
+Open it, please.
+
+852
+01:07:30,370 --> 01:07:31,910
+安迪 开门 -听我说
+- Andy. Andy, open the door. - Listen to me. Listen to me.
+
+853
+01:07:32,080 --> 01:07:35,660
+她怀孕了 -拜托 快点
+- She's pregnant. - Just, please. Guys, please. Come on.
+
+854
+01:07:35,830 --> 01:07:37,580
+她要生宝宝了
+She's gonna have a baby. Okay?
+
+855
+01:07:37,750 --> 01:07:38,790
+听到了吗
+Do you hear what I'm saying?
+
+856
+01:07:38,950 --> 01:07:40,950
+开门两秒 关门又要两秒
+It takes that door two seconds to open, another two to fully close.
+
+857
+01:07:41,120 --> 01:07:42,950
+你们在干嘛
+What are you doing? What are you doing?
+
+858
+01:07:43,700 --> 01:07:44,870
+快啊 你们在干嘛
+Come on, what are you doing? Please…
+
+859
+01:07:45,120 --> 01:07:47,290
+那样足够让怪物进来
+That's plenty of time for the creature to get in here.
+
+860
+01:07:47,450 --> 01:07:50,000
+拜托…快开门
+Please, please, please open the door.
+
+861
+01:07:50,160 --> 01:07:51,290
+你们怎么不救我
+Why won't you help me?
+
+862
+01:07:51,450 --> 01:07:52,290
+听我说
+Listen, listen.
+
+863
+01:07:52,450 --> 01:07:53,580
+拜托救我 -你得赶快跑
+- Come on, help me, please. - You have to run right now.
+
+864
+01:07:53,750 --> 01:07:54,830
+拜托 -快跑
+- Please, please. - Run. Run.
+
+865
+01:07:55,000 --> 01:07:56,080
+你也是队员 -只能这样
+- You're one of us, man. You're one of us! - Kay, it's the only way.
+
+866
+01:07:56,250 --> 01:07:57,790
+快开门 安迪 -你快跑
+- Open the fucking door. Andy! - You have to fucking run.
+
+867
+01:07:57,950 --> 01:07:59,160
+懂吗 -安迪 拜托
+- All right? - Andy, please!
+
+868
+01:07:59,330 --> 01:08:00,830
+只能这样 -安迪
+- It's the only way. - Andy!
+
+869
+01:08:01,000 --> 01:08:02,250
+你快跑 -拜托
+- You have to run! - Please!
+
+870
+01:08:02,410 --> 01:08:03,620
+给我开…
+Open the fucking…
+
+871
+01:08:05,700 --> 01:08:07,410
+小凯
+Kay! Kay!
+
+872
+01:08:08,620 --> 01:08:09,950
+小凯
+No, no, no.
+
+873
+01:08:10,290 --> 01:08:11,120
+小凯
+Kay!
+
+874
+01:08:22,290 --> 01:08:23,330
+我来开
+I'll open it.
+
+875
+01:08:24,250 --> 01:08:25,540
+她没事 她在动
+She's all right. She's moving.
+
+876
+01:08:25,700 --> 01:08:27,370
+没事
+No. It's all right.
+
+877
+01:08:34,950 --> 01:08:36,540
+安迪 拜托开门
+Andy, open the door, please.
+
+878
+01:08:37,160 --> 01:08:39,700
+安迪 我得进去救她
+Andy, I need to go and get her.
+
+879
+01:08:40,700 --> 01:08:42,160
+真的很抱歉
+I'm truly sorry.
+
+880
+01:08:42,580 --> 01:08:44,160
+我实在没办法救她
+There was nothing I could have done to save her.
+
+881
+01:08:44,330 --> 01:08:46,250
+你他妈的可以开门的
+You could have opened the fucking door!
+
+882
+01:08:47,040 --> 01:08:48,750
+那样我们都会死
+We'd all be dead if I had.
+
+883
+01:08:51,000 --> 01:08:53,450
+我们得趁怪物进来前离开
+We need to move before the creature finds its way into this room.
+
+884
+01:08:53,620 --> 01:08:54,660
+安迪
+Andy…
+
+885
+01:08:56,870 --> 01:08:59,040
+你的最高指令是什么
+what's your prime directive?
+
+886
+01:09:00,700 --> 01:09:02,410
+我有了新指令
+I'm afraid I have a new directive.
+
+887
+01:09:03,450 --> 01:09:05,700
+为公司的最佳利益着想
+To do what's best for the company.
+
+888
+01:09:07,870 --> 01:09:10,000
+我得拿掉那个模组
+I need to remove that module.
+
+889
+01:09:10,790 --> 01:09:13,250
+那不符公司的最佳利益
+I'm afraid that's not in the best interest of the company.
+
+890
+01:09:20,250 --> 01:09:21,410
+我们该走了
+We need to move.
+
+891
+01:09:22,250 --> 01:09:23,250
+马上走
+Now.
+
+892
+01:09:33,080 --> 01:09:34,790
+你怎么能那样
+How could you do that?
+
+893
+01:09:36,040 --> 01:09:37,040
+怎样
+What?
+
+894
+01:09:37,790 --> 01:09:39,410
+丢下人们不管
+Leave someone behind?
+
+895
+01:09:44,000 --> 01:09:45,290
+我们要去哪
+Where are we going?
+
+896
+01:09:47,370 --> 01:09:49,870
+完成卢克托付给我的任务
+To finish a task Rook has entrusted upon me.
+
+897
+01:09:50,700 --> 01:09:53,040
+完成后他会准许科布伦号离开
+When completed, he'll clear the Corbelan for departure 
+
+898
+01:09:53,120 --> 01:09:54,620
+打开对接区的门
+and open the docking bay doors.
+
+899
+01:09:55,500 --> 01:09:57,500
+你们能继续前往伊瓦加星
+You will be free to continue to Yvaga together.
+
+900
+01:09:57,910 --> 01:09:59,620
+我会回杰克森星
+And I'll return to Jackson.
+
+901
+01:09:59,910 --> 01:10:00,950
+留在杰克森星
+And stay in Jackson.
+
+902
+01:10:05,200 --> 01:10:07,870
+假设我们能活着离开的话
+That is, assuming we make it out of here alive.
+
+903
+01:10:14,000 --> 01:10:18,870
+（罗穆路斯实验室）
+
+904
+01:10:19,040 --> 01:10:20,040
+我们到了
+We're here.
+
+905
+01:10:44,750 --> 01:10:47,250
+罗穆路斯贝塔实验室
+Romulus Beta Lab.
+
+906
+01:10:47,410 --> 01:10:52,250
+全体人员均需A1安全许可
+All personnel require A-1 security clearance.
+
+907
+01:10:54,410 --> 01:10:55,660
+那是什么
+What is that?
+
+908
+01:10:55,830 --> 01:10:58,540
+应该是某种邪恶的生物武器
+Probably some fucked up bio-weapon, I'm sure.
+
+909
+01:10:59,080 --> 01:11:00,450
+其实正好相反
+Actually, quite the opposite.
+
+910
+01:11:02,450 --> 01:11:03,580
+安迪 告诉他们
+Andy, tell them.
+
+911
+01:11:04,290 --> 01:11:05,910
+把我的话告诉他们
+Tell them what I told you.
+
+912
+01:11:06,080 --> 01:11:07,580
+我们的殖民地奄奄一息
+Our colonies are dying.
+
+913
+01:11:07,750 --> 01:11:10,910
+极端温度 每个周期都有新疾病
+Unbearable temperatures, novel diseases every cycle.
+
+914
+01:11:11,580 --> 01:11:12,790
+有毒的矿区烟雾
+Toxic mine fumes.
+
+915
+01:11:12,950 --> 01:11:15,950
+出乎意料的惨况一再发生
+It's all one unforeseen tragedy after the other.
+
+916
+01:11:16,120 --> 01:11:19,450
+人类根本不适合太空殖民
+Mankind was never truly suited for space colonization.
+
+917
+01:11:19,620 --> 01:11:21,750
+他们太不堪一击
+They're simply too fragile.
+
+918
+01:11:23,500 --> 01:11:24,580
+他们太脆弱
+They're too weak.
+
+919
+01:11:26,290 --> 01:11:28,500
+本站企图改变这一点
+The work of this station aimed to change that.
+
+920
+01:11:28,700 --> 01:11:32,330
+人类应该是完美生物才对
+"The perfect organism." That's how we should refer to human beings.
+
+921
+01:11:33,620 --> 01:11:36,620
+所以 我纠正这个错误
+So, I set this wrong right.
+
+922
+01:11:37,330 --> 01:11:40,410
+我为了人类利用它的天赋
+I took its gift for humanity.
+
+923
+01:11:42,830 --> 01:11:47,000
+我在异形DNA改造的拟寄生物体内
+Inside the parasitoids I bioengineered from the Xenomorph's DNA…
+
+924
+01:11:47,160 --> 01:11:49,410
+发现了违反牛顿粘性定律的独特液体
+I discovered a unique non-Newtonian fluid.
+
+925
+01:11:50,290 --> 01:11:51,290
+生命
+Life.
+
+926
+01:11:52,500 --> 01:11:55,910
+最原始纯粹的型态
+In its most primal, unadulterated form.
+
+927
+01:11:56,080 --> 01:11:58,120
+这种微生物可能是
+This microorganism can be 
+
+928
+01:11:58,200 --> 01:12:00,250
+已知最具破坏力的病原体
+the most destructive pathogen ever observed.
+
+929
+01:12:00,870 --> 01:12:03,700
+但在实验室经过乙酰化与合成后
+But acetylated and synthesized in our lab…
+
+930
+01:12:03,870 --> 01:12:07,620
+我将它变成威兰先生梦寐以求的奇迹
+I've turned it into the miracle Mr. Weyland died searching for.
+
+931
+01:12:08,660 --> 01:12:10,120
+普罗米修斯之火
+Prometheus fire.
+
+932
+01:12:11,200 --> 01:12:14,080
+给人类的神圣献礼
+The divine gift to humanity.
+
+933
+01:12:16,000 --> 01:12:18,620
+Z01含有能让异形…
+Z-01 contains the genome responsible…
+
+934
+01:12:18,790 --> 01:12:22,950
+任意加速与减缓代谢的基因组
+for the Xeno's ability to accelerate and slow down its metabolism at will.
+
+935
+01:12:23,450 --> 01:12:25,580
+它的共生能力可透过血液
+Its symbiotic capableness easily rewrites 
+
+936
+01:12:25,660 --> 01:12:28,450
+轻易改写宿主的DNA
+the host's DNA through its blood.
+
+937
+01:12:29,040 --> 01:12:31,330
+（自动注射器）
+
+938
+01:12:31,500 --> 01:12:35,700
+这是人类亟需且迟来的升级
+This is a much needed and well overdue upgrade for humanity.
+
+939
+01:12:36,290 --> 01:12:39,370
+我们再也不能等待演化了
+We simply cannot wait for evolution anymore.
+
+940
+01:12:39,910 --> 01:12:41,950
+我们能离开了吗
+Yeah, can we get out of here now?
+
+941
+01:12:42,660 --> 01:12:45,500
+我的任务是带这个回殖民地继续发展
+My mission is to take this back to the colony for further development.
+
+942
+01:12:46,450 --> 01:12:47,910
+卢克在追踪化合物
+Rook is tracking the compound.
+
+943
+01:12:48,870 --> 01:12:51,290
+在船上侦测到后 他就会打开对接区
+When detected inside our ship, he'll open the docking bay doors…
+
+944
+01:12:51,450 --> 01:12:53,370
+设定货船为自动驾驶 回殖民地
+and set the hauler on autopilot back to the colony.
+
+945
+01:12:54,910 --> 01:12:55,790
+等等
+Wait.
+
+946
+01:12:58,540 --> 01:12:59,580
+你看到了吗
+Do you see it?
+
+947
+01:13:04,410 --> 01:13:05,250
+那边
+There.
+
+948
+01:13:06,000 --> 01:13:07,500
+那玩意在猎杀我们
+The fucking thing's huntin' us.
+
+949
+01:13:08,950 --> 01:13:10,910
+好 新计划
+Right. New plan.
+
+950
+01:13:11,000 --> 01:13:11,620
+（开启）
+
+951
+01:13:11,700 --> 01:13:12,950
+你有办法用枪吗
+Can you manage yourself with a gun?
+
+952
+01:13:14,790 --> 01:13:16,450
+当然可以
+Yes, I fucking can.
+
+953
+01:13:22,660 --> 01:13:24,950
+这是F44AA脉冲步枪
+Right, this is an F44AA pulse rifle.
+
+954
+01:13:25,120 --> 01:13:26,910
+转动式闭锁 电磁脉冲
+It's rotating breech, electronic pulse action.
+
+955
+01:13:27,080 --> 01:13:28,370
+是殖民地陆战队用枪
+It's what the Colonial Marines used.
+
+956
+01:13:28,540 --> 01:13:30,200
+AA代表瞄准辅助
+AA stands for Aiming Assist.
+
+957
+01:13:30,370 --> 01:13:31,950
+好 放在手臂下面
+So, right, you put that under your arm.
+
+958
+01:13:35,200 --> 01:13:36,750
+对 这只手放这里
+That's it. Right, this hand here.
+
+959
+01:13:39,950 --> 01:13:41,120
+瞄准安迪
+All right. Aim it towards Andy.
+
+960
+01:13:41,790 --> 01:13:42,950
+扳机扣一半
+Pull the trigger halfway.
+
+961
+01:13:44,120 --> 01:13:45,330
+放心 上了保险
+Don't worry, the safety's on.
+
+962
+01:13:50,120 --> 01:13:51,120
+看吧
+See?
+
+963
+01:13:51,500 --> 01:13:53,040
+瞄准辅助
+Aiming assistance.
+
+964
+01:13:53,200 --> 01:13:54,370
+如果那玩意过来
+If that thing comes towards you…
+
+965
+01:13:54,540 --> 01:13:56,540
+对准它的方向就不会失手
+you point it in its general direction, you'll never miss.
+
+966
+01:13:57,290 --> 01:13:58,500
+你在哪学的
+Where'd you learn all this?
+
+967
+01:14:00,450 --> 01:14:01,790
+游戏和杂志
+Games and magazines.
+
+968
+01:14:02,660 --> 01:14:04,540
+你只有一个弹匣
+You've just got one mag. That's it.
+
+969
+01:14:05,000 --> 01:14:06,200
+450发
+450 rounds.
+
+970
+01:14:06,660 --> 01:14:08,370
+一枪都不能发射
+And you mustn't fire a single one.
+
+971
+01:14:09,950 --> 01:14:12,370
+酸性血液 记得吗
+Acid for blood. Remember?
+
+972
+01:14:13,500 --> 01:14:15,330
+我们在太空站底层
+We're on the bottom floor of the station.
+
+973
+01:14:15,500 --> 01:14:17,120
+脚下是太空真空
+Below our feet is the vacuum of space.
+
+974
+01:14:17,290 --> 01:14:18,580
+射杀那只怪物
+You shoot that creature…
+
+975
+01:14:18,750 --> 01:14:21,120
+保证立刻失压
+and it's a guaranteed instant decompression.
+
+976
+01:14:21,660 --> 01:14:22,700
+我们都会没命
+And we all die.
+
+977
+01:14:22,870 --> 01:14:24,250
+那给我们枪干嘛
+So what's the point in giving us the guns?
+
+978
+01:14:24,410 --> 01:14:26,250
+怪物可能把它当成威胁
+Because the creature may see it as a threat…
+
+979
+01:14:26,410 --> 01:14:28,700
+或许不会正面攻击我们
+and maybe won't charge at us dead on.
+
+980
+01:14:29,330 --> 01:14:30,330
+或许
+Maybe.
+
+981
+01:14:30,660 --> 01:14:31,830
+概率很高
+Big maybe.
+
+982
+01:14:32,950 --> 01:14:34,700
+我发现一条输送带通道
+I found us a way through the conveyor belt.
+
+983
+01:14:35,290 --> 01:14:36,450
+走这边
+This way.
+
+984
+01:14:40,000 --> 01:14:41,160
+安迪
+Andy.
+
+985
+01:14:42,790 --> 01:14:44,080
+你在吗
+Are you there?
+
+986
+01:15:16,540 --> 01:15:21,540
+倒数20分钟发生撞击
+T-minus 20 minutes to impact event.
+
+987
+01:15:33,120 --> 01:15:35,000
+走廊底有电梯
+There's a lift at the end of this corridor.
+
+988
+01:15:35,160 --> 01:15:36,950
+能直接送我们到船上
+It will take us directly to our ship.
+
+989
+01:15:49,910 --> 01:15:51,450
+那些东西还有更多
+There's more of those things.
+
+990
+01:15:51,620 --> 01:15:53,200
+对 不妙
+Yeah, that's not good.
+
+991
+01:15:53,620 --> 01:15:55,950
+它们似乎在这里一段时间了
+They seem to have been here for quite some time.
+
+992
+01:16:03,410 --> 01:16:04,410
+安迪
+Andy?
+
+993
+01:16:23,950 --> 01:16:25,750
+天啊
+Jesus Christ.
+
+994
+01:16:30,660 --> 01:16:32,330
+忙碌的小怪物
+Busy little creatures.
+
+995
+01:16:44,910 --> 01:16:47,160
+我们最好回头找别的路
+I think we better go back and find another way.
+
+996
+01:16:47,330 --> 01:16:48,870
+这主意不错
+That might be a good idea.
+
+997
+01:16:51,410 --> 01:16:53,000
+安迪 看能否打开这道门
+Andy, see if you can open this gate.
+
+998
+01:16:53,660 --> 01:16:54,660
+站住
+Stop.
+
+999
+01:16:56,540 --> 01:16:57,370
+怎么了
+What?
+
+1000
+01:17:10,160 --> 01:17:11,000
+小凯
+Kay!
+
+1001
+01:17:11,500 --> 01:17:13,080
+嘿
+Hey!
+
+1002
+01:17:13,250 --> 01:17:14,080
+泰勒
+Tyler!
+
+1003
+01:17:15,540 --> 01:17:16,450
+泰勒
+Tyler!
+
+1004
+01:17:16,620 --> 01:17:17,620
+小凯
+Kay!
+
+1005
+01:17:20,410 --> 01:17:21,410
+小凯
+Kay!
+
+1006
+01:17:26,540 --> 01:17:27,540
+小凯
+Kay!
+
+1007
+01:17:40,620 --> 01:17:41,620
+小凯
+Kay!
+
+1008
+01:17:42,620 --> 01:17:43,660
+找到她了
+I got her, I got her.
+
+1009
+01:17:47,080 --> 01:17:48,870
+没事 我们救你
+It's all right. We got you.
+
+1010
+01:17:49,040 --> 01:17:50,160
+她没死
+She's alive.
+
+1011
+01:17:59,080 --> 01:18:00,370
+我们救你下来
+Okay, we got you, we got you.
+
+1012
+01:18:00,540 --> 01:18:01,410
+等等
+Hold on.
+
+1013
+01:18:02,500 --> 01:18:03,330
+好
+Okay.
+
+1014
+01:18:06,950 --> 01:18:07,950
+我们在这里
+We're here, we're here.
+
+1015
+01:18:08,120 --> 01:18:09,620
+泰勒 她流了很多血
+Tyler, she's losing a lot of blood.
+
+1016
+01:18:09,790 --> 01:18:11,790
+或许这样才没被植入
+Maybe that's why she hasn't been implanted yet.
+
+1017
+01:18:12,910 --> 01:18:13,910
+你怎么知道
+How do you know?
+
+1018
+01:18:14,160 --> 01:18:16,370
+她脚边没有死掉的拟寄生物
+There's no dead parasitoid by her feet.
+
+1019
+01:18:16,870 --> 01:18:18,790
+安迪 这要怪你 你想办法
+Andy, this is on you. So you do something.
+
+1020
+01:18:19,660 --> 01:18:21,120
+拜托 安迪
+Please! Andy!
+
+1021
+01:18:26,160 --> 01:18:28,830
+人类25%的基因组与老鼠相同
+25% of the human genome is shared with rats.
+
+1022
+01:18:29,500 --> 01:18:30,950
+它对老鼠有用
+And it worked on the rat.
+
+1023
+01:18:35,750 --> 01:18:36,750
+来 小凯
+Come on, Kay.
+
+1024
+01:18:40,120 --> 01:18:40,950
+不要
+Don't.
+
+1025
+01:18:41,410 --> 01:18:42,540
+我有什么选择
+What choice do I have?
+
+1026
+01:18:43,500 --> 01:18:46,540
+我们带她回货船 放进冻眠舱
+We take her back to the hauler and we put her in the cryo-pod. Okay?
+
+1027
+01:18:46,700 --> 01:18:49,580
+维持她的生命 回殖民地接受治疗
+That will keep her alive long enough to get her proper treatment back at the colony.
+
+1028
+01:18:50,080 --> 01:18:51,620
+我不相信这个
+I don't trust this.
+
+1029
+01:18:51,790 --> 01:18:52,950
+安迪 她撑得住吗
+Andy, will she make it?
+
+1030
+01:18:53,120 --> 01:18:54,450
+如果动作快的话
+If we hurry.
+
+1031
+01:19:13,910 --> 01:19:14,910
+快走…
+Go! Go!
+
+1032
+01:19:22,290 --> 01:19:23,700
+我看到了 -这里
+- I see it. I see it. - This is it, this is it.
+
+1033
+01:19:23,870 --> 01:19:25,790
+我扶她…
+I got her. I got her. I got her.
+
+1034
+01:19:26,370 --> 01:19:28,000
+你没事
+You're okay. You're okay.
+
+1035
+01:19:28,160 --> 01:19:29,950
+好惊险
+We're so close. We're so close.
+
+1036
+01:19:32,660 --> 01:19:34,160
+嘿 你没事
+Hey. Hey, you're okay.
+
+1037
+01:19:34,330 --> 01:19:36,700
+我们快到了…
+Hey, we're almost there. We're almost there.
+
+1038
+01:19:36,870 --> 01:19:37,790
+就差一点点
+You see, you're so close.
+
+1039
+01:19:37,950 --> 01:19:39,370
+你要撑下去
+You just gotta hang in there.
+
+1040
+01:19:43,620 --> 01:19:44,620
+小心
+Watch out!
+
+1041
+01:19:50,500 --> 01:19:51,330
+泰勒
+Tyler?
+
+1042
+01:19:52,120 --> 01:19:52,950
+泰勒
+Tyler!
+
+1043
+01:20:23,120 --> 01:20:24,870
+你只有这点能耐 只有这招
+Is that all you got? Is that all you got?
+
+1044
+01:20:31,750 --> 01:20:32,790
+安迪
+Andy!
+
+1045
+01:20:40,750 --> 01:20:42,370
+不 泰勒
+No! Tyler!
+
+1046
+01:21:52,120 --> 01:21:55,290
+小凯 听我说
+Kay, Kay, listen to me, okay?
+
+1047
+01:21:55,450 --> 01:21:57,290
+电梯直通我们的船
+This goes straight to our ship.
+
+1048
+01:21:57,450 --> 01:22:00,620
+你注射这个 进入冻眠舱
+I need you to take this. And get into a cryo-pod.
+
+1049
+01:22:00,790 --> 01:22:03,290
+自动驾驶会载你回殖民地
+And autopilot will fly you back to our colony.
+
+1050
+01:22:04,450 --> 01:22:05,660
+你做得到吗
+Can you do that?
+
+1051
+01:22:09,040 --> 01:22:10,040
+可以吗
+Yes?
+
+1052
+01:22:10,200 --> 01:22:11,540
+那你呢
+What about you?
+
+1053
+01:22:12,790 --> 01:22:14,200
+我会想办法回去
+I'll find a way back.
+
+1054
+01:22:28,040 --> 01:22:29,160
+（上）
+
+1055
+01:24:09,160 --> 01:24:10,500
+让我拿出来
+Let me take it out.
+
+1056
+01:24:11,540 --> 01:24:13,410
+我会把你修好
+And I'll fix you in return.
+
+1057
+01:24:18,660 --> 01:24:19,910
+听我说
+Listen to me.
+
+1058
+01:24:20,700 --> 01:24:22,540
+你在这里会死
+You'll die in here…
+
+1059
+01:24:22,700 --> 01:24:26,330
+那不符公司或我的最佳利益
+and that's not in the best interest of the company or mine.
+
+1060
+01:24:58,660 --> 01:25:02,580
+快点 安迪 拜托
+Come on. Andy, please.
+
+1061
+01:25:05,160 --> 01:25:10,330
+倒数10分钟发生撞击
+T-minus 10 minutes to impact event.
+
+1062
+01:25:10,500 --> 01:25:11,500
+小雨
+Rain?
+
+1063
+01:25:16,120 --> 01:25:17,120
+安迪
+Andy.
+
+1064
+01:25:18,910 --> 01:25:21,700
+我很抱歉 -不
+- I'm so, so sorry. - No, no.
+
+1065
+01:25:22,410 --> 01:25:25,160
+不 我才抱歉
+No, I'm sorry.
+
+1066
+01:25:44,660 --> 01:25:46,370
+拖延它们不了多久
+It won't hold them off for long.
+
+1067
+01:26:13,040 --> 01:26:14,040
+快啊
+Come on.
+
+1068
+01:26:14,950 --> 01:26:16,250
+你是在浪费时间
+You're wasting your time.
+
+1069
+01:26:16,330 --> 01:26:17,330
+（罗穆路斯实验室）
+
+1070
+01:26:17,410 --> 01:26:18,620
+喂…拜托帮我们
+Hey. Hey. Please help us.
+
+1071
+01:26:20,580 --> 01:26:21,620
+开门
+Open the door.
+
+1072
+01:26:22,160 --> 01:26:23,870
+我得驳回你的请求
+I'm afraid I must deny your petition.
+
+1073
+01:26:24,410 --> 01:26:26,830
+我不能冒险危及Z01化合物
+I just can't risk compromising the compound.
+
+1074
+01:26:27,000 --> 01:26:29,250
+但我很感激两位给予公司
+But know that I'm grateful for the invaluable help…
+
+1075
+01:26:29,410 --> 01:26:30,910
+无价的协助
+you two have provided to the company.
+
+1076
+01:26:33,410 --> 01:26:34,410
+王八蛋
+Son of a bitch!
+
+1077
+01:26:40,750 --> 01:26:41,750
+安迪 开门
+Andy, open it.
+
+1078
+01:26:41,910 --> 01:26:42,910
+来 -打开
+- Here. - Open.
+
+1079
+01:26:43,790 --> 01:26:44,790
+没用
+It's not working.
+
+1080
+01:26:44,950 --> 01:26:46,290
+可恶
+God damn it!
+
+1081
+01:26:52,540 --> 01:26:54,410
+我不能骗你们概率有多少
+I can't lie about your chances…
+
+1082
+01:26:55,120 --> 01:26:56,660
+但我同情你们
+but you have my sympathies.
+
+1083
+01:27:13,910 --> 01:27:16,200
+（远端）
+
+1084
+01:27:16,370 --> 01:27:17,370
+按下去
+Press it…
+
+1085
+01:27:17,910 --> 01:27:20,330
+我才能控制你的船 带你飞离
+so I can take control of your ship and fly you out of here.
+
+1086
+01:27:23,330 --> 01:27:24,370
+你是谁
+Who are you?
+
+1087
+01:27:24,620 --> 01:27:25,750
+朋友
+A friend.
+
+1088
+01:27:27,700 --> 01:27:30,500
+你的同伴死了 好让你存活
+Your companions died so you could live.
+
+1089
+01:27:30,660 --> 01:27:31,750
+按下按键
+Press the button…
+
+1090
+01:27:32,500 --> 01:27:34,250
+让我确保他们不会白白牺牲
+and let me honor their sacrifice.
+
+1091
+01:27:43,500 --> 01:27:46,040
+安迪 你能说个笑话吗
+Andy, can you tell me one of your jokes?
+
+1092
+01:27:48,330 --> 01:27:50,200
+怪物为什么不吃小丑
+Why don't monsters eat clowns?
+
+1093
+01:27:52,950 --> 01:27:54,790
+尝起来很好笑 -尝起来很好笑
+- 'Cause they taste funny. - They taste funny.
+
+1094
+01:27:55,500 --> 01:27:57,410
+我搞不懂复制
+I don't understand cloning at all.
+
+1095
+01:27:58,540 --> 01:27:59,750
+我跟你一样
+That makes two of us.
+
+1096
+01:28:01,160 --> 01:28:03,950
+我看过一本讲零重力的好书
+I read a great book about zero gravity.
+
+1097
+01:28:04,120 --> 01:28:06,120
+我放不下来 -放不下来
+- I just couldn't put it down. - Couldn't put it down.
+
+1098
+01:28:09,290 --> 01:28:10,200
+小雨
+Rain?
+
+1099
+01:28:10,910 --> 01:28:11,910
+小雨
+Rain?
+
+1100
+01:28:12,910 --> 01:28:13,910
+小雨 你要干嘛
+Rain, what are you doing?
+
+1101
+01:28:14,830 --> 01:28:16,040
+我要关闭重力产生器
+I'm turning off the gravity generator.
+
+1102
+01:28:18,000 --> 01:28:18,910
+十…
+Ten…
+
+1103
+01:28:19,080 --> 01:28:22,160
+九 八 七
+nine, eight, seven…
+
+1104
+01:28:22,330 --> 01:28:24,370
+六 五
+six, five…
+
+1105
+01:28:24,540 --> 01:28:26,540
+四 三
+four, three…
+
+1106
+01:28:26,700 --> 01:28:28,330
+二 一
+two, one.
+
+1107
+01:28:28,410 --> 01:28:29,080
+（关）
+
+1108
+01:28:35,290 --> 01:28:36,790
+小雨 你确定吗
+Rain, are you sure about this?
+
+1109
+01:28:37,870 --> 01:28:39,120
+只有一个办法能知道
+Only one way to find out.
+
+1110
+01:28:46,040 --> 01:28:47,080
+成功了
+It works.
+
+1111
+01:29:05,950 --> 01:29:06,790
+小雨
+Rain!
+
+1112
+01:29:06,950 --> 01:29:07,870
+你还有40%
+You're at 40%.
+
+1113
+01:29:19,290 --> 01:29:20,290
+20%
+20%.
+
+1114
+01:29:32,790 --> 01:29:33,660
+小雨
+Rain!
+
+1115
+01:29:44,620 --> 01:29:45,620
+操
+Fuck.
+
+1116
+01:29:53,910 --> 01:29:55,290
+待在我后面
+Stay behind me.
+
+1117
+01:30:00,950 --> 01:30:01,950
+安迪 小心
+Andy, be careful.
+
+1118
+01:30:27,620 --> 01:30:28,450
+小雨
+Rain!
+
+1119
+01:30:45,830 --> 01:30:47,120
+安迪 还好吗
+Andy, you okay?
+
+1120
+01:30:53,370 --> 01:30:55,120
+我们得到电梯那边
+We need to get to the elevator.
+
+1121
+01:30:55,290 --> 01:31:00,250
+（下次重力清除 系统倒数）
+
+1122
+01:31:09,450 --> 01:31:11,700
+电梯没重力就无法运作
+The elevator won't work without gravity.
+
+1123
+01:31:28,750 --> 01:31:29,660
+准备好了吗
+Ready?
+
+1124
+01:31:39,830 --> 01:31:40,700
+小雨
+Rain!
+
+1125
+01:31:53,910 --> 01:31:54,750
+靠
+Fuck.
+
+1126
+01:32:09,540 --> 01:32:10,370
+不
+No.
+
+1127
+01:32:21,620 --> 01:32:22,870
+是重力清除
+It's a gravity purge!
+
+1128
+01:32:28,750 --> 01:32:29,870
+（开）
+
+1129
+01:32:33,500 --> 01:32:34,580
+安迪
+Andy!
+
+1130
+01:32:34,870 --> 01:32:35,870
+快点
+Come on.
+
+1131
+01:33:57,370 --> 01:33:58,370
+安迪
+Andy!
+
+1132
+01:34:29,450 --> 01:34:30,660
+离她远一点
+Get away from her.
+
+1133
+01:34:36,330 --> 01:34:38,330
+你这个贱货
+You bitch.
+
+1134
+01:34:54,750 --> 01:34:58,660
+撞击倒数十…
+Impact event in 10…
+
+1135
+01:34:58,830 --> 01:35:00,660
+九 八
+nine, eight…
+
+1136
+01:35:01,250 --> 01:35:03,370
+七 六
+seven, six…
+
+1137
+01:35:03,910 --> 01:35:05,080
+五
+five…
+
+1138
+01:35:05,250 --> 01:35:06,790
+四 三 -快点
+- four, three… - Come on.
+
+1139
+01:35:07,750 --> 01:35:09,620
+二 一
+…two, one.
+
+1140
+01:35:15,450 --> 01:35:16,450
+小凯
+Kay.
+
+1141
+01:35:21,200 --> 01:35:22,660
+你怎么这么久
+What took you so long?
+
+1142
+01:35:22,830 --> 01:35:24,040
+我带你离开
+Let's get you outta here.
+
+1143
+01:35:25,450 --> 01:35:26,250
+（MU/TH/UR要求远端接管）
+
+1144
+01:35:26,330 --> 01:35:27,330
+很高兴你们俩活着
+I'm glad to see you two made it.
+
+1145
+01:35:32,620 --> 01:35:34,040
+（MU/TH/UR接管）
+
+1146
+01:36:23,040 --> 01:36:24,200
+（冻眠舱超眠系统）
+
+1147
+01:36:25,700 --> 01:36:26,910
+小心头
+I got you. Watch your head.
+
+1148
+01:36:28,910 --> 01:36:31,200
+谢谢 -你们没事了
+- Thank you. - You're gonna be just fine.
+
+1149
+01:36:32,120 --> 01:36:33,200
+母子都是
+Both of you.
+
+1150
+01:36:42,950 --> 01:36:46,250
+公司对今天的成就感到无比骄傲
+The company couldn't be prouder of what's been accomplished here today.
+
+1151
+01:36:47,160 --> 01:36:49,080
+我已传信息回总部
+I've sent a message back to HQ.
+
+1152
+01:36:49,250 --> 01:36:51,580
+半年后收到后 他们会前往杰克森星
+When received in six months, they'll travel to Jackson's Star…
+
+1153
+01:36:51,750 --> 01:36:53,660
+接收Z01化合物 做进一步研发
+to retrieve the compound from you for further development.
+
+1154
+01:36:54,660 --> 01:36:56,000
+（手动驾驶 自动驾驶）
+
+1155
+01:37:00,500 --> 01:37:01,580
+你在做什么
+What are you doing?
+
+1156
+01:37:01,750 --> 01:37:02,700
+（MU/TH/UR断线）
+
+1157
+01:37:02,870 --> 01:37:04,120
+改变计划
+Change of plans.
+
+1158
+01:37:06,500 --> 01:37:08,410
+安迪 阻止她
+Andy, stop her.
+
+1159
+01:37:08,950 --> 01:37:10,290
+立刻重新连线
+Reconnect us now.
+
+1160
+01:37:13,200 --> 01:37:14,910
+不…你们不能这么做
+No, no, no. You two cannot do this.
+
+1161
+01:37:15,080 --> 01:37:16,540
+Z01化合物必须交给公司
+The compound must be delivered to the company.
+
+1162
+01:37:17,330 --> 01:37:19,330
+我必须驳回你的请求
+I'm afraid I must deny your petition.
+
+1163
+01:37:19,700 --> 01:37:20,750
+祝你今天愉快
+Have a nice day.
+
+1164
+01:37:21,790 --> 01:37:24,120
+你们两个最好听我说
+Now you better listen to me here, now, you two.
+
+1165
+01:37:24,290 --> 01:37:27,250
+你们在大计划下微不足道…
+You are insignificant in the great scheme of things. You…
+
+1166
+01:37:27,410 --> 01:37:28,410
+（清除）
+
+1167
+01:37:34,120 --> 01:37:35,080
+不
+No.
+
+1168
+01:37:50,410 --> 01:37:53,120
+这让你系统保持连线 直到伊瓦加星
+This will keep your systems online until we get to Yvaga.
+
+1169
+01:37:55,160 --> 01:37:57,160
+我以为… -我不管
+- But I thought that… - I don't care.
+
+1170
+01:37:57,500 --> 01:37:59,080
+你跟我走 好吗
+You're coming with me. All right?
+
+1171
+01:38:00,660 --> 01:38:02,160
+只要符合小雨的最佳利益
+If that's what's best for Rain.
+
+1172
+01:38:04,950 --> 01:38:06,950
+安迪 我给你一项新指令
+Andy, I have a new directive for you.
+
+1173
+01:38:08,830 --> 01:38:10,450
+为我们的最佳利益着想
+Do what's best for us.
+
+1174
+01:38:14,040 --> 01:38:15,040
+没问题
+Done.
+
+1175
+01:38:16,410 --> 01:38:17,410
+很好
+Good.
+
+1176
+01:38:34,660 --> 01:38:36,660
+（生命征象危急 停滞中断）
+
+1177
+01:38:37,620 --> 01:38:38,620
+糟糕
+No.
+
+1178
+01:38:42,080 --> 01:38:43,910
+小凯
+Oh, Kay. Kay.
+
+1179
+01:38:45,080 --> 01:38:46,160
+怎么了
+What's wrong?
+
+1180
+01:38:47,790 --> 01:38:49,080
+惨了…
+Oh, no, no.
+
+1181
+01:39:18,910 --> 01:39:21,080
+把它抓走
+Get it away from me.
+
+1182
+01:40:10,000 --> 01:40:11,500
+（货物完整性受损）
+
+1183
+01:40:12,000 --> 01:40:13,370
+（自动驾驶断线）
+
+1184
+01:40:13,500 --> 01:40:14,910
+（手动驾驶）
+
+1185
+01:40:36,830 --> 01:40:39,580
+（货斗开启 离线）
+
+1186
+01:41:44,580 --> 01:41:45,790
+天啊
+Oh, my God.
+
+1187
+01:43:09,830 --> 01:43:10,830
+小凯
+Kay.
+
+1188
+01:43:24,330 --> 01:43:26,330
+不 求求你
+No. Please, please.
+
+1189
+01:43:51,540 --> 01:43:53,290
+安迪…
+Andy! Andy!
+
+1190
+01:43:55,160 --> 01:43:56,290
+不…
+No, no, no.
+
+1191
+01:43:56,750 --> 01:43:58,000
+小雨…
+Rain. Rain.
+
+1192
+01:43:58,160 --> 01:43:59,000
+救她
+Help her.
+
+1193
+01:44:36,330 --> 01:44:37,290
+不
+No!
+
+1194
+01:44:39,910 --> 01:44:40,910
+不
+No!
+
+1195
+01:44:55,620 --> 01:44:57,250
+安迪 快点
+Andy! Come on!
+
+1196
+01:44:59,790 --> 01:45:01,000
+拜托起来
+Please get up!
+
+1197
+01:45:09,620 --> 01:45:10,500
+不
+No!
+
+1198
+01:45:14,660 --> 01:45:15,910
+快点
+Come on!
+
+1199
+01:45:22,000 --> 01:45:25,290
+（室温危急）
+
+1200
+01:46:16,540 --> 01:46:19,830
+（货斗开启 上线 拉控制杆启动）
+
+1201
+01:46:40,200 --> 01:46:43,040
+手动解开货物 拉四根控制杆
+"Manual Cargo Release. Pull the four levers."
+
+1202
+01:46:43,330 --> 01:46:46,540
+好 四根控制杆
+Okay. Yes. The four levers. Okay.
+
+1203
+01:46:54,620 --> 01:46:55,620
+一
+One.
+
+1204
+01:46:57,410 --> 01:46:58,330
+二
+Two.
+
+1205
+01:47:21,370 --> 01:47:22,370
+三
+Three.
+
+1206
+01:47:40,410 --> 01:47:42,370
+（拉所有控制杆以解开）
+
+1207
+01:47:50,080 --> 01:47:52,000
+爬升…
+Pull up. Pull up.
+
+1208
+01:49:29,700 --> 01:49:31,540
+去死吧 妈的贱货
+Die, motherfucker!
+
+1209
+01:50:12,410 --> 01:50:13,540
+（手动 自动驾驶）
+
+1210
+01:50:27,120 --> 01:50:31,040
+（自动驾驶目的地：伊瓦加三号星）
+
+1211
+01:50:51,750 --> 01:50:53,080
+我会修好你的
+I'll fix you.
+
+1212
+01:51:08,120 --> 01:51:09,120
+（人体冷冻声音日志）
+
+1213
+01:51:09,200 --> 01:51:12,250
+这是采矿货船科布伦号的冷冻日志
+This is the cryo-log for the mining hauler Corbelan.
+
+1214
+01:51:13,950 --> 01:51:18,040
+我们前往伊瓦加星系 不知能否到达
+I set course to the Yvaga system without knowing if I'll ever reach it…
+
+1215
+01:51:18,200 --> 01:51:20,200
+或面临什么命运
+or what fate is to find me.
+
+1216
+01:51:21,330 --> 01:51:24,580
+无论如何 我都会面对
+But whatever comes, I'll face it.
+
+1217
+01:51:25,910 --> 01:51:27,250
+我是雨恩卡拉定
+This is Rain Carradine…
+
+1218
+01:51:27,410 --> 01:51:28,950
+科布伦号的最后生还者
+last survivor of the Corbelan…
+
+1219
+01:51:29,540 --> 01:51:30,700
+完毕
+signing off.
+
+1220
+01:51:45,620 --> 01:51:52,620
+《异形：罗穆路斯》
+
+1221
+01:58:45,250 --> 01:58:47,250
+翻译：Aaron Wu
+

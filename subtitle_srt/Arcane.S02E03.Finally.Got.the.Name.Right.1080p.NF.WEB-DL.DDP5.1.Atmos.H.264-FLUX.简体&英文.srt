@@ -1,0 +1,1849 @@
+﻿1
+00:00:18,620 --> 00:00:21,830
+可是要记住 你姓吉拉曼恩
+But remember: You're a Kiramman.
+
+2
+00:00:22,910 --> 00:00:26,450
+我会带突击队去底城完成三项任务
+I will lead a strike team into Zaun with three objectives:
+
+3
+00:00:26,450 --> 00:00:27,620
+找到金克丝
+Locate Jinx, 
+
+4
+00:00:27,620 --> 00:00:28,990
+摧毁微光
+dismantle Shimmer,
+
+5
+00:00:29,000 --> 00:00:32,000
+铲除所有效忠于希尔科的残党余孽
+and neutralize any agents still loyal to Silco.
+
+6
+00:00:33,410 --> 00:00:35,370
+裂沟工业的不断发展
+The rise of industry in the fissures
+
+7
+00:00:35,370 --> 00:00:37,830
+也带来了越来越严重的毒气
+has led to the air becoming increasingly toxic.
+
+8
+00:00:38,950 --> 00:00:40,450
+人们称之为“灰瘴”
+They call it the Grey.
+
+9
+00:00:41,540 --> 00:00:44,830
+我已经着手派建筑师 设计了一套通风系统
+I've instructed our architects to devise a ventilation system.
+
+10
+00:00:45,830 --> 00:00:48,410
+保证底城居民可以自由呼吸
+The people of the underground deserve to breathe.
+
+11
+00:01:51,870 --> 00:01:53,450
+(金克丝)
+
+12
+00:02:01,450 --> 00:02:03,540
+人们称之为“灰瘴”
+They call it the Grey.
+
+13
+00:03:34,200 --> 00:03:37,870
+{\an8}《英雄联盟:双城之战》
+第二季第三集
+
+14
+00:03:34,200 --> 00:03:37,870
+本WEB版外挂字幕由  风吹来的那片云  双语合并
+
+15
+00:03:49,910 --> 00:03:52,080
+谢谢 我以为我死定了
+Thanks. I thought I was a goner.
+
+16
+00:03:54,040 --> 00:03:55,660
+你是史密奇的人
+You're Smeech's man.
+
+17
+00:03:55,660 --> 00:03:56,790
+以前是
+Was.
+
+18
+00:03:56,790 --> 00:03:59,290
+现在不是了 我叫西诺特
+Not anymore. Name's Heenot.
+
+19
+00:03:59,290 --> 00:04:00,200
+我...
+I...
+
+20
+00:04:01,370 --> 00:04:03,990
+感觉自己也是时候该退休了
+Oh, I decided it was time for me to retire.
+
+21
+00:04:04,000 --> 00:04:06,120
+应该是有人想要让你退休吧
+Looks more like someone decided to retire you.
+
+22
+00:04:06,120 --> 00:04:09,120
+也对 我最不擅长就是审时...
+Yeah, well, timing was never my strong...
+
+23
+00:04:10,500 --> 00:04:11,830
+抱歉 不好意思
+Sorry. Sorry, it's... 
+
+24
+00:04:11,830 --> 00:04:13,700
+都是灰瘴 弄得我...
+It's the Grey. It gives me the...
+
+25
+00:04:14,250 --> 00:04:15,330
+快说你是怎么进到这里的
+Tell us how you wound up here.
+
+26
+00:04:15,330 --> 00:04:16,660
+等等
+Hey, wait, wait.
+
+27
+00:04:16,660 --> 00:04:19,870
+是金克丝 要玩大的
+Jinx is off the rails, even for her.
+
+28
+00:04:19,870 --> 00:04:21,370
+眼下她正在兴头儿上
+She's got a real fire lit under her ass.
+
+29
+00:04:21,370 --> 00:04:23,410
+但这次真的有点太过了
+She's planning something big,
+
+30
+00:04:23,410 --> 00:04:26,200
+她要对排风系统来个大改造
+right here in the pipeworks.
+
+31
+00:04:26,200 --> 00:04:28,200
+这地方还挺大的 是吧
+It's a pretty big place down here.
+
+32
+00:04:28,830 --> 00:04:30,450
+她往旧隧道那边去了
+She was headed towards the old tunnels. 
+
+33
+00:04:30,450 --> 00:04:32,750
+说是要给排风口改改道
+Something about rerouting the vents.
+
+34
+00:04:34,080 --> 00:04:35,290
+原来如此
+This is it, then. 
+
+35
+00:04:35,290 --> 00:04:36,370
+- 铐上 - 为什么
+Cuff him.
+
+36
+00:04:36,370 --> 00:04:37,660
+我该撂的都撂了
+Hey, I told you everything I know.
+
+37
+00:04:37,660 --> 00:04:38,950
+可以算你是自首
+You're a confessed criminal. 
+
+38
+00:04:38,950 --> 00:04:40,620
+好好在监狱里面过退休生活吧
+You'll spend your retirement in a cell.
+
+39
+00:04:40,620 --> 00:04:41,540
+检查装备
+Check your gear.
+
+40
+00:04:41,540 --> 00:04:43,000
+平日的训练就为今天
+This is what we've trained for.
+
+41
+00:04:44,500 --> 00:04:45,620
+能聊两句吗
+Can I get a minute?
+
+42
+00:04:52,950 --> 00:04:56,080
+第一次拒绝见你是因为不感兴趣
+Your first request for an audience was uninteresting.
+
+43
+00:04:56,830 --> 00:04:59,580
+第二次是因为觉得你不够格
+The second, inappropriate for someone of your station.
+
+44
+00:05:00,580 --> 00:05:01,830
+第三次
+The third...
+
+45
+00:05:02,580 --> 00:05:04,040
+是懒得搭理你
+plain annoying.
+
+46
+00:05:05,500 --> 00:05:07,870
+平时换别人早死八百回了
+People have lost their heads for less.
+
+47
+00:05:12,000 --> 00:05:13,500
+直说吧 阿玛拉
+So tell me, Amara,
+
+48
+00:05:14,120 --> 00:05:17,830
+你这个皮尔特沃夫商会的人 想跟我谈什么
+what does a member of Piltover's merchant guild want from me?
+
+49
+00:05:20,160 --> 00:05:22,740
+我不是为了商会的事来的
+I'm not here representing the guild.
+
+50
+00:05:22,750 --> 00:05:25,250
+我是为了要追一笔债
+I've come here to settle a debt.
+
+51
+00:05:27,040 --> 00:05:29,040
+管账的人在前厅呢
+My bookkeeper is down the hall.
+
+52
+00:05:31,500 --> 00:05:33,160
+你偷走的东西
+What you've stolen...
+
+53
+00:05:33,160 --> 00:05:35,620
+那可是千金难换的
+...is more precious than any gold.
+
+54
+00:05:43,330 --> 00:05:47,080
+你真以为逃到皮尔特沃夫 就能摆脱我们了
+Did you truly believe Piltover was beyond our reach?
+
+55
+00:05:53,580 --> 00:05:56,290
+我儿子已经死了
+My son is dead.
+
+56
+00:05:56,290 --> 00:05:59,540
+难道他的死还不能让你们满足吗
+Is that not enough to sate your bloodlust?
+
+57
+00:05:59,540 --> 00:06:02,660
+我可没把你当傻子看 安蓓萨
+I haven't insulted your intelligence, Ambessa.
+
+58
+00:06:02,660 --> 00:06:05,000
+也请你别把我当傻子
+Do not insult mine.
+
+59
+00:06:07,160 --> 00:06:09,950
+我们很清楚你在皮城想干什么
+We know what you're chasing in Piltover.
+
+60
+00:06:09,950 --> 00:06:11,830
+我们不会让你得逞的
+We will not allow it.
+
+61
+00:06:12,580 --> 00:06:13,450
+不让
+Allow?
+
+62
+00:06:15,160 --> 00:06:15,990
+不劳大驾
+Thank you.
+
+63
+00:06:16,000 --> 00:06:19,040
+你的到访倒是证实了我的猜测
+Your visit only confirms my suspicions.
+
+64
+00:06:24,450 --> 00:06:27,120
+凭你个老巫婆还想阻止我
+Try to stop me, insolent witch.
+
+65
+00:06:32,120 --> 00:06:34,160
+我的死活不重要
+My death means nothing.
+
+66
+00:06:35,410 --> 00:06:39,250
+以前的恩怨 你早该放下了
+You should have given up the feud.
+
+67
+00:06:40,040 --> 00:06:44,450
+你根本不懂家人对我来说意味着什么
+You have no inkling what family is to me.
+
+68
+00:06:55,700 --> 00:06:57,120
+增加三倍守卫
+Triple the guard.
+
+69
+00:06:57,910 --> 00:06:59,870
+这事儿不会就这么完了
+This will have consequences.
+
+70
+00:07:00,700 --> 00:07:03,120
+控制权要赶紧拿下
+We need control now.
+
+71
+00:07:03,120 --> 00:07:04,790
+萨罗还没准备好
+Salo isn't ready.
+
+72
+00:07:04,790 --> 00:07:07,330
+是不是可以考虑把梅尔拉进来
+Perhaps it's time we involved Mel.
+
+73
+00:07:07,330 --> 00:07:08,660
+不行
+No. 
+
+74
+00:07:08,660 --> 00:07:10,540
+必须跟她保持距离
+We must distance ourselves.
+
+75
+00:07:10,540 --> 00:07:12,540
+做我们的敌人对她更安全
+She's safer as our enemy.
+
+76
+00:07:12,540 --> 00:07:13,660
+萨罗我会摆平
+I'll handle Salo.
+
+77
+00:07:15,330 --> 00:07:17,870
+这女的失踪的事瞒不了太久
+Her disappearance won't go unnoticed for long.
+
+78
+00:07:19,120 --> 00:07:20,870
+我担心的不是这个
+It's worse than that.
+
+79
+00:07:35,870 --> 00:07:38,000
+应该要让其他人按兵不动
+We should cut the others loose.
+
+80
+00:07:39,040 --> 00:07:42,000
+听着 如果那个叫西诺特的 说的是真的
+Listen, if that Heenot idiot is telling the truth,
+
+81
+00:07:42,660 --> 00:07:45,200
+那金克丝可是憋了个大招来对付我们
+Jinx is gonna have surprises in store for us.
+
+82
+00:07:45,200 --> 00:07:46,990
+那更应该多带些人
+All the more reason to bring backup.
+
+83
+00:07:47,000 --> 00:07:48,450
+只要察觉到他们的踪影
+She'll smell their nerves a mile away 
+
+84
+00:07:48,450 --> 00:07:50,290
+她就会利用这一点来对付我们
+and find a way to use them against us.
+
+85
+00:07:51,160 --> 00:07:52,410
+我说得不对吗
+Tell me I'm wrong.
+
+86
+00:07:53,500 --> 00:07:55,330
+这次我不能再让她逃掉了
+I can't let her get away again. 
+
+87
+00:07:56,160 --> 00:07:58,410
+- 你确定你准备好... - 我的妹妹
+- Are you sure you're ready to...? - My sister is gone.
+
+88
+00:07:58,410 --> 00:07:59,540
+死了
+
+89
+00:08:00,040 --> 00:08:01,620
+她现在只是金克丝
+There's only Jinx now.
+
+90
+00:08:03,370 --> 00:08:04,870
+这事儿也该了结了
+It has to end.
+
+91
+00:08:06,290 --> 00:08:07,620
+你的母亲去世
+I'm so sorry 
+
+92
+00:08:07,620 --> 00:08:08,750
+我也很难过
+about your mother.
+
+93
+00:08:09,750 --> 00:08:11,870
+很抱歉 我什么都做不了
+I'm sorry I can't bring her back, 
+
+94
+00:08:11,870 --> 00:08:13,370
+但是你能不能...
+but please just...
+
+95
+00:08:15,000 --> 00:08:16,790
+我生命中的每个人都变了
+Everyone in my life has changed. 
+
+96
+00:08:16,790 --> 00:08:18,700
+但是我希望你不要变
+Promise me you won't change.
+
+97
+00:08:39,410 --> 00:08:40,370
+不会的
+I won't.
+
+98
+00:09:38,120 --> 00:09:39,160
+出去
+Out.
+
+99
+00:09:49,910 --> 00:09:53,250
+你该知道在这儿找到你 并不是件难事吧
+Do you realize how easy it was for me to track you down here?
+
+100
+00:09:54,290 --> 00:09:55,910
+毕竟是我的地方
+Well, I do own the place.
+
+101
+00:09:55,910 --> 00:09:57,830
+我对你仁至义尽了
+It's enough work propping you up
+
+102
+00:09:57,830 --> 00:10:00,290
+为你花了多少心思 下了多少功夫
+without you dulling what few wits are left rattling around in there.
+
+103
+00:10:00,290 --> 00:10:01,740
+你脑子里有数
+If you propped 
+
+104
+00:10:01,750 --> 00:10:04,910
+是仁至义尽还是虚情假意啊
+as well as you prod,
+
+105
+00:10:04,910 --> 00:10:07,620
+要不然我干嘛要在这儿费时又伤神的
+maybe I'd have better uses for my time
+
+106
+00:10:07,620 --> 00:10:10,370
+坐等那个吉拉曼恩家的大小姐
+than sitting around waiting for an update
+
+107
+00:10:10,370 --> 00:10:13,500
+在底城玩猫抓老鼠的最新战报
+on Princess Kiramman's underground escapades.
+
+108
+00:10:14,040 --> 00:10:16,790
+即便她连金克丝的影儿都没见着
+She's gotten no closer to Jinx.
+
+109
+00:10:16,790 --> 00:10:20,370
+也丝毫不影响她 成为大家眼中耀眼的新星
+But that doesn't seem to steal the stars from anyone's eyes.
+
+110
+00:10:20,370 --> 00:10:23,040
+让一个小丫头在自己的地盘抢了风头
+Perhaps if you hadn't let a child overpower you 
+
+111
+00:10:23,040 --> 00:10:24,580
+又怪得了谁呢
+in your own chamber.
+
+112
+00:10:24,580 --> 00:10:26,950
+那个小丫头没什么
+It's not the girl.
+
+113
+00:10:26,950 --> 00:10:29,790
+人们相信她是冲着她的姓氏
+It's the name. It bewitches people.
+
+114
+00:10:30,700 --> 00:10:32,160
+你应该很清楚
+You should know.
+
+115
+00:10:32,160 --> 00:10:34,160
+不然你认为梅尔凭什么能...
+Do you really think Mel could have succeeded--?
+
+116
+00:10:35,870 --> 00:10:37,830
+再敢说我家人一句试试
+Never speak ill of my family.
+
+117
+00:10:45,910 --> 00:10:47,370
+你到底来干什么的
+Why are you here?
+
+118
+00:10:48,080 --> 00:10:49,700
+来给你醒醒神
+To sober you up.
+
+119
+00:10:50,750 --> 00:10:52,250
+恭喜你成功了
+Mission accomplished.
+
+120
+00:10:56,410 --> 00:10:57,830
+是时候了
+It's time.
+
+121
+00:10:57,830 --> 00:11:01,450
+尽力把能召集的家族全部都召集起来
+Rally every house and family with even a modicum of influence.
+
+122
+00:11:01,450 --> 00:11:02,540
+你能办得到吧
+Can you manage that?
+
+123
+00:11:02,540 --> 00:11:04,950
+等等 真的吗
+Wait. For certain?
+
+124
+00:11:04,950 --> 00:11:07,290
+可以 没问题 照你说的办
+Yes, of course. Whatever you need.
+
+125
+00:11:08,040 --> 00:11:09,580
+另外还有一件事
+There is another matter, 
+
+126
+00:11:09,580 --> 00:11:12,250
+就是你们商会的那个阿玛拉
+concerning your guild merchant Amara.
+
+127
+00:11:23,870 --> 00:11:25,540
+好的
+And, yes.
+
+128
+00:11:26,500 --> 00:11:27,660
+皇冠
+Lift.
+
+129
+00:11:27,660 --> 00:11:28,580
+就是这样
+Fantastic stuff.
+
+130
+00:11:36,200 --> 00:11:37,950
+我们又见面了 莱斯特
+Good to see you again, Lest.
+
+131
+00:11:37,950 --> 00:11:39,120
+我不干了
+I'm out.
+
+132
+00:11:39,660 --> 00:11:42,750
+对我来说监视一个 有怪癖的议员不是什么难事
+Keeping an eye on a councilor with peculiar tastes doesn't rattle me.
+
+133
+00:11:43,660 --> 00:11:44,870
+不过那个女人...
+But that woman...
+
+134
+00:11:44,870 --> 00:11:46,240
+你见到过我母亲
+You met my mother? 
+
+135
+00:11:46,250 --> 00:11:47,490
+她想干什么
+What did she want?
+
+136
+00:11:47,500 --> 00:11:49,080
+不知道 我被赶出去了
+I don't know. They kicked me out 
+
+137
+00:11:49,080 --> 00:11:50,160
+什么都没有听到
+before I could hear any of it.
+
+138
+00:11:51,040 --> 00:11:53,450
+听没听到 你我都很清楚
+We both know you heard every word.
+
+139
+00:11:54,790 --> 00:11:56,290
+对不起 我真不能说
+I'm sorry, but I really can't.
+
+140
+00:11:56,290 --> 00:11:58,540
+莱斯特 这件事至关重要
+Lest, this is vitally important.
+
+141
+00:11:58,540 --> 00:11:59,870
+我必须知道
+I need to know.
+
+142
+00:11:59,870 --> 00:12:01,450
+你的目标不是萨罗
+This was never about Salo.
+
+143
+00:12:02,410 --> 00:12:04,490
+你在利用我去接近她
+You're using me to get to her.
+
+144
+00:12:04,500 --> 00:12:05,660
+然后呢
+And then what?
+
+145
+00:12:05,660 --> 00:12:07,700
+你事成之后会管我的死活吗
+You take what you need, hang me out to dry? Hmm?
+
+146
+00:12:08,370 --> 00:12:09,240
+我就是牺牲品
+I'm expendable?
+
+147
+00:12:09,250 --> 00:12:11,410
+不 没有人是牺牲品
+No, no one is expendable.
+
+148
+00:12:11,410 --> 00:12:13,580
+我恰恰要避免这种事发生
+That's what this is all about.
+
+149
+00:12:13,580 --> 00:12:16,370
+凡事一旦沾上我母亲 就都存在风险
+Everything with my mother is a calculated risk.
+
+150
+00:12:16,910 --> 00:12:18,790
+我答应你护你周全
+I'd love to promise your safety,
+
+151
+00:12:18,790 --> 00:12:21,290
+除此之外 我也无法再承诺其他的了
+but I can't make any assurances other than this:
+
+152
+00:12:21,290 --> 00:12:22,910
+如果要是让我母亲得逞
+If my mother gets what she wants, 
+
+153
+00:12:22,910 --> 00:12:24,580
+整个城邦都会遭殃
+the whole city will suffer.
+
+154
+00:12:25,290 --> 00:12:27,740
+而眼下可以阻止她的人
+And right now you're the only one 
+
+155
+00:12:27,750 --> 00:12:28,830
+也就只有你了
+who can stand in her way.
+
+156
+00:12:31,120 --> 00:12:33,330
+他们要宣布什么重大决策
+They're setting up some big announcement.
+
+157
+00:12:33,330 --> 00:12:35,040
+名门望族都会参与
+All the who's who.
+
+158
+00:12:35,040 --> 00:12:37,500
+他们计划夺权 辅佐萨罗上位
+Aiming to take over and put Salo in the hot seat, but...
+
+159
+00:12:39,370 --> 00:12:41,700
+不过谁在幕后操纵 大家都清楚
+we know who's really pulling the strings.
+
+160
+00:12:42,410 --> 00:12:44,410
+还听见个名字 阿玛拉
+I caught a name. Amara.
+
+161
+00:12:44,410 --> 00:12:45,750
+不知道你认不认识她
+I don't know what you make of that.
+
+162
+00:12:46,410 --> 00:12:49,370
+给你 这是新配方 很受欢迎的
+Here, brand-new cocktail. All the rage.
+
+163
+00:12:50,410 --> 00:12:52,080
+是用微光调配的
+It's made with Shimmer.
+
+164
+00:12:52,080 --> 00:12:53,620
+会在身体上留下痕迹
+Leaves traces on the body.
+
+165
+00:12:54,250 --> 00:12:56,250
+有了这个 你就能摆平萨罗了
+That should be all you need to shut Salo down.
+
+166
+00:12:58,250 --> 00:12:59,240
+谢谢你
+Thank you.
+
+167
+00:12:59,250 --> 00:13:00,450
+另外就是
+For what it's worth...
+
+168
+00:13:02,410 --> 00:13:05,540
+你母亲就算再凶狠 也有忌惮的事情
+dangerous as she is, your mother was spooked.
+
+169
+00:13:05,540 --> 00:13:07,080
+我能察觉到
+I could smell it.
+
+170
+00:13:07,080 --> 00:13:09,450
+就像被逼到墙角的猫一样
+Like a cat backed into a corner.
+
+171
+00:13:38,500 --> 00:13:39,870
+维克托曾推测
+Viktor hypothesized 
+
+172
+00:13:39,870 --> 00:13:42,410
+也许有一种叫做“狂野符文”的东西
+that there may be something he called "wild runes."
+
+173
+00:13:42,410 --> 00:13:44,950
+当我们的世界与奥术世界相邻的时候
+Patterns that occur naturally
+
+174
+00:13:44,950 --> 00:13:46,790
+这种符文就能自然产生
+where the border between our world and the Arcane is thin.
+
+175
+00:13:46,790 --> 00:13:48,870
+很像你用在海克斯科技上的
+Runes like the ones you use in Hextech.
+
+176
+00:13:49,700 --> 00:13:51,910
+这种狂野符文和那些有什么不一样
+What's the difference between those and wild runes?
+
+177
+00:13:52,540 --> 00:13:53,540
+把书递给我
+Pass me a tome.
+
+178
+00:13:56,660 --> 00:13:58,200
+我用你能够听懂的表达
+I used words you understood 
+
+179
+00:13:58,200 --> 00:14:00,040
+让你做出相应的行为
+in order to elicit your action.
+
+180
+00:14:00,040 --> 00:14:01,580
+这就是海克斯科技符文
+This is what Hextech runes are.
+
+181
+00:14:02,620 --> 00:14:03,660
+把书递给我
+Pass me a tome.
+
+182
+00:14:06,500 --> 00:14:07,870
+把书递给我
+Pass me a tome.
+
+183
+00:14:08,450 --> 00:14:10,080
+看 你叹气了
+There, you sighed. Still a kind of language.
+
+184
+00:14:10,080 --> 00:14:11,660
+这也算是一种表达
+A sound, 
+
+185
+00:14:11,660 --> 00:14:13,080
+无需文字的表达
+but not words.
+
+186
+00:14:13,080 --> 00:14:16,620
+是原始的 自然的 这就是狂野符文
+Something raw. Natural. That's wild runes.
+
+187
+00:14:16,620 --> 00:14:18,660
+奥术在大多数地方都处于休眠状态
+Most places, the Arcane is dormant, but here and there, it's more active.
+
+188
+00:14:18,660 --> 00:14:20,410
+但在你我这里却异常混乱
+Wild runes are...
+
+189
+00:14:20,410 --> 00:14:22,330
+就有点像是指纹
+Sort of like its fingerprints.
+
+190
+00:14:22,330 --> 00:14:23,240
+没错
+Exactly.
+
+191
+00:14:23,250 --> 00:14:26,870
+所以你是想说 我们树上出现了图案
+So you're telling me that pattern is on my tree
+
+192
+00:14:26,870 --> 00:14:29,200
+是因为你们为了一己私欲 让奥术不爽了
+because you pissed the Arcane off with all your demands?
+
+193
+00:14:29,830 --> 00:14:31,910
+我可不是这个...
+That's-- That's not what I...
+
+194
+00:14:31,910 --> 00:14:33,950
+这小伙子没准说中了
+Oh, the lad may be onto something. 
+
+195
+00:14:33,950 --> 00:14:35,200
+有因必有果
+Every action sparks 
+
+196
+00:14:35,200 --> 00:14:36,660
+有果必有因
+a reaction.
+
+197
+00:14:36,660 --> 00:14:38,250
+哎呀 没接住
+Oh, ball sockets.
+
+198
+00:14:39,450 --> 00:14:41,620
+你觉得这是过度使用 海克斯科技造成的吗
+Do you think this could actually be a result of overuse of Hextech?
+
+199
+00:14:42,700 --> 00:14:45,950
+说到法术创造奇迹这种事情
+I've seen miracles spring from the hands 
+
+200
+00:14:45,950 --> 00:14:47,410
+我也见识过不少
+of mages many times,
+
+201
+00:14:47,410 --> 00:14:52,160
+不过大多数结局似乎都不怎么好
+but so often, they turned to horrors.
+
+202
+00:14:52,160 --> 00:14:53,490
+究其原因
+I'd always presumed 
+
+203
+00:14:53,500 --> 00:14:59,040
+我一直觉得是因为人类 难以驾驭强大的力量所致的
+it was due to mankind's... turbulent relationship with power.
+
+204
+00:14:59,040 --> 00:15:00,240
+但或许
+But perhaps 
+
+205
+00:15:00,250 --> 00:15:05,200
+真正的原因其实 来自于奥术自身的属性
+it is a property of the Arcane itself.
+
+206
+00:15:05,790 --> 00:15:06,870
+多年来
+We tested 
+
+207
+00:15:06,870 --> 00:15:09,040
+我们在各种条件下测试海克斯科技
+our Hextech under every conceivable condition for years.
+
+208
+00:15:09,700 --> 00:15:12,160
+如果真给什么地方带来了某些影响
+If there's some reaction taking place,
+
+209
+00:15:12,160 --> 00:15:14,240
+那为什么以前一点迹象都没有
+how come we've never seen any sign of it until now?
+
+210
+00:15:14,250 --> 00:15:15,910
+为什么又会出现在一棵树上
+And why would it appear on a tree, 
+
+211
+00:15:16,750 --> 00:15:19,200
+而且还在地下
+deep underground?
+
+212
+00:15:58,700 --> 00:16:00,410
+您消息可靠
+Your source panned out.
+
+213
+00:16:00,410 --> 00:16:01,660
+我已经查过了
+I've confirmed 
+
+214
+00:16:01,660 --> 00:16:03,910
+萨罗今天私下见了几个家族的成员
+Salo met privately with members of several houses today.
+
+215
+00:16:05,000 --> 00:16:06,750
+我应该第一时间告诉您的
+I should have been first to bring this to you.
+
+216
+00:16:07,830 --> 00:16:09,660
+我保证下次不会疏忽了
+I promise I wouldn't have missed it.
+
+217
+00:16:09,660 --> 00:16:12,040
+他们真是好大的胆子
+It's just such a bold move.
+
+218
+00:16:12,040 --> 00:16:14,950
+- 这个节骨眼上简直... - 愚蠢
+- And at this moment, it's... - Foolish.
+
+219
+00:16:16,370 --> 00:16:18,500
+您的母亲自然不可能是愚蠢的
+Of course, your mother is anything but a fool.
+
+220
+00:16:19,290 --> 00:16:21,120
+一定是我遗漏了什么线索
+There must be an angle I'm missing.
+
+221
+00:16:23,910 --> 00:16:25,790
+那件事查得怎么样了
+Did you look into the other matter?
+
+222
+00:16:25,790 --> 00:16:27,660
+关于您哥哥的死因
+There's a rat's nest 
+
+223
+00:16:27,660 --> 00:16:29,790
+目前掌握的线索还不是很明朗
+of misinformation surrounding your brother's passing.
+
+224
+00:16:30,410 --> 00:16:33,040
+跟他有过交集的人 身上都看不出什么问题
+Whomever he crossed knows how to cover their tracks.
+
+225
+00:16:33,580 --> 00:16:37,830
+不过他们似乎快要 把您母亲的财产全部转移走了
+Moreover, they've managed to strip your mother of most of her holdings.
+
+226
+00:16:40,410 --> 00:16:42,080
+她无路可退了
+She's desperate.
+
+227
+00:16:42,080 --> 00:16:44,660
+这样的话只会让她变得更加危险
+Which makes her all the more dangerous.
+
+228
+00:16:46,080 --> 00:16:47,540
+我们现在该怎么办
+What are we going to do?
+
+229
+00:16:50,620 --> 00:16:52,200
+把药剂师叫过来
+Summon the apothecary. 
+
+230
+00:16:52,200 --> 00:16:53,580
+让他帮我看看这个
+I'll want his opinion of this.
+
+231
+00:16:54,080 --> 00:16:55,790
+再跟进一下阿玛拉那边
+And check in on Amara.
+
+232
+00:17:04,500 --> 00:17:06,250
+这儿还是海克斯飞门吗
+This is still part of the Hexgates?
+
+233
+00:17:07,620 --> 00:17:10,000
+我们现在少说也往地下降了60米了
+We must be at least 200 feet below the surface.
+
+234
+00:17:11,040 --> 00:17:13,080
+整个结构就像一条通道
+The entire structure is a channel,
+
+235
+00:17:13,080 --> 00:17:15,750
+将海克斯科技的能量聚成精密光束
+focusing the Hextech energy into a precise beam.
+
+236
+00:17:39,580 --> 00:17:40,410
+凯特琳
+Cait.
+
+237
+00:17:41,700 --> 00:17:42,830
+逮到机会你就...
+If you see an opening...
+
+238
+00:17:45,250 --> 00:17:46,330
+直接开枪
+take the shot.
+
+239
+00:17:47,080 --> 00:17:47,910
+蔚
+Vi.
+
+240
+00:18:04,290 --> 00:18:06,290
+你对它的设计怎么这么了解
+How do you know so much about its design?
+
+241
+00:18:06,290 --> 00:18:08,870
+大量的阅读和自己的推导
+Read what I could, deduced what I couldn't.
+
+242
+00:18:08,870 --> 00:18:13,080
+不过没想到上城人会把 这么重要的东西放到地下
+Plus, I didn't think the Topside would trust anything that important below the surface.
+
+243
+00:18:24,830 --> 00:18:28,040
+最起码海克斯宝石矩阵该被放在地上
+I thought the gemstone mesh was installed aboveground.
+
+244
+00:18:28,040 --> 00:18:29,740
+矩阵的确是在地上
+The mesh is aboveground,
+
+245
+00:18:29,750 --> 00:18:32,200
+但我们担心万一飞门超载
+but we weren't sure what would happen if the gate overloaded,
+
+246
+00:18:32,200 --> 00:18:34,240
+于是就在底部安装了保险装置
+so we installed a failsafe at the base.
+
+247
+00:18:34,250 --> 00:18:37,040
+所以万一有爆炸 也影响不到你们
+So instead of it exploding in your neighborhood,
+
+248
+00:18:37,040 --> 00:18:38,910
+遭殃的只会是我们 对吧
+it would blow up in ours.
+
+249
+00:18:38,910 --> 00:18:40,490
+这儿距离裂沟还远着呢
+We're miles from the main fissures.
+
+250
+00:18:40,500 --> 00:18:42,120
+对 是还远着呢
+These are the same utility ducts 
+
+251
+00:18:42,120 --> 00:18:45,790
+但这些管道跟我们底城的 供水管道和通风管道是相连的
+that carry our water and facilitate our ventilation.
+
+252
+00:18:45,790 --> 00:18:47,790
+这就是为什么我们的树会受到影响
+That would explain it affecting the tree.
+
+253
+00:18:47,790 --> 00:18:49,790
+真不可思议
+Inconceivable.
+
+254
+00:18:50,290 --> 00:18:51,160
+真是
+You know, 
+
+255
+00:18:51,160 --> 00:18:53,250
+嘴上说着我们应该同甘共苦
+you say we should feel like we're all one people.
+
+256
+00:18:54,410 --> 00:18:57,950
+结果却成了一出事 就让我们底城人先顶着
+But whenever it rains, we're the ones that get wet...
+
+257
+00:18:57,950 --> 00:18:59,160
+怎么回事
+What the...?
+
+258
+00:19:04,120 --> 00:19:05,160
+金克丝
+Jinx! Jinx! Jinx! Jinx!
+
+259
+00:19:07,000 --> 00:19:09,040
+可算把我名字叫对了
+Finally got the name right.
+
+260
+00:19:11,540 --> 00:19:15,500
+为了找我 你还真是连个地缝都不放过呀
+Guess there really isn't a crack in the earth where you won't find me.
+
+261
+00:19:16,120 --> 00:19:17,740
+这是什么地方
+What is this place?
+
+262
+00:19:17,750 --> 00:19:19,540
+你还记得以前睡觉前
+Don't you remember the old Janna bedtime stories
+
+263
+00:19:19,540 --> 00:19:22,330
+范德尔给我们讲过的迦娜的故事吗
+Vander used to tell us?
+
+264
+00:19:23,450 --> 00:19:25,950
+矿工们被困在地下
+Miners trapped underground.
+
+265
+00:19:25,950 --> 00:19:27,950
+呼吸越来越困难
+Air running thin!
+
+266
+00:19:27,950 --> 00:19:29,160
+在这时
+But then 
+
+267
+00:19:29,160 --> 00:19:30,910
+吹风的女人从天而降
+some wispy wind woman wafts 
+
+268
+00:19:30,910 --> 00:19:33,040
+把大家都救了出来
+to their rescue.
+
+269
+00:19:34,790 --> 00:19:35,910
+这么离谱的故事
+Wild the kind 
+
+270
+00:19:35,910 --> 00:19:38,450
+不过是人们窒息的时候安慰自己罢了
+of crap people get up to when you choke them out.
+
+271
+00:19:39,250 --> 00:19:41,990
+我们借助灰瘴清空街上的人
+We used the Grey to clear the streets. 
+
+272
+00:19:42,000 --> 00:19:43,080
+是为了保证安全
+To keep people safe.
+
+273
+00:19:43,080 --> 00:19:44,330
+“我们”
+"We."
+
+274
+00:19:45,500 --> 00:19:48,330
+没想到我姐姐会披上上城那层皮
+Never thought my sister would turn bluebelly.
+
+275
+00:19:48,950 --> 00:19:51,500
+没想到我妹妹会让 别的孩子也变成孤儿
+Never thought mine would orphan kids.
+
+276
+00:19:52,120 --> 00:19:53,620
+那又怎么了
+Ha! Why not? 
+
+277
+00:19:53,620 --> 00:19:55,040
+我现在谁的也不欠
+Done it to myself enough.
+
+278
+00:19:56,040 --> 00:19:58,700
+不过把我的照片贴得到处都是
+But plastering my face all over
+
+279
+00:19:58,700 --> 00:20:01,250
+是不是想让别人替你干那些脏活儿
+so someone else would do your dirty work?
+
+280
+00:20:01,830 --> 00:20:03,830
+还往空气里下毒是吧
+Poisoning our air?
+
+281
+00:20:05,540 --> 00:20:08,330
+你也变了不少啊 姐姐
+You've turned a leaf, sister.
+
+282
+00:20:08,330 --> 00:20:09,290
+我受够了
+
+283
+00:20:09,290 --> 00:20:11,500
+我不想再拿你的错误来惩罚自己I'm done blaming myself for your mistakes.
+
+284
+00:20:12,080 --> 00:20:13,620
+我不想骗自己你还是我的妹妹
+Done pretending you're my sister. 
+
+285
+00:20:13,620 --> 00:20:15,040
+你不是了
+You're not.
+
+286
+00:20:15,040 --> 00:20:16,950
+是你杀了她
+You killed her.
+
+287
+00:20:16,950 --> 00:20:19,330
+我不会再让你玷污我对她的回忆了
+I'm not gonna let you stain her memory anymore.
+
+288
+00:20:21,290 --> 00:20:22,830
+那就阻止我
+Then stop me.
+
+289
+00:20:25,080 --> 00:20:26,910
+反正我不管做什么
+'Cause no matter what I do,
+
+290
+00:20:28,120 --> 00:20:29,290
+好像都死不了
+I just can't seem to die.
+
+291
+00:20:30,540 --> 00:20:31,910
+对不起了
+I'm sorry.
+
+292
+00:20:32,910 --> 00:20:34,540
+我也对不起了
+I'm sorry too.
+
+293
+00:21:01,290 --> 00:21:02,790
+我就知道你们俩
+I know you're sweet on her.
+
+294
+00:21:04,660 --> 00:21:06,330
+以后要是有机会
+Hope you got a chance to, you know...
+
+295
+00:21:06,330 --> 00:21:08,830
+倒是可以...
+Before...
+
+296
+00:21:10,700 --> 00:21:11,660
+动手吧
+I'm ready.
+
+297
+00:21:21,620 --> 00:21:24,290
+那个是狂野符文吗
+Is that a wild rune?
+
+298
+00:21:25,500 --> 00:21:27,160
+我也不知道它到底是什么
+I have no idea what that is.
+
+299
+00:24:10,000 --> 00:24:11,620
+我们究竟做了什么
+What have we done?
+
+300
+00:25:27,450 --> 00:25:29,540
+继续 来啊
+Go on. I'm ready.
+
+301
+00:25:31,910 --> 00:25:33,410
+是你真好
+I'm glad it's you.
+
+302
+00:25:34,750 --> 00:25:36,330
+就只能是你
+Had to be you.
+
+303
+00:25:44,700 --> 00:25:45,750
+不要
+No!
+
+304
+00:26:24,160 --> 00:26:25,120
+你干嘛
+What are you...?
+
+305
+00:26:26,160 --> 00:26:27,410
+快放开我
+Get off me.
+
+306
+00:26:30,750 --> 00:26:31,740
+快点让开
+Get away from her.
+
+307
+00:26:31,750 --> 00:26:33,620
+- 凯特琳 - 让开
+- Cait. - Move.
+
+308
+00:26:33,620 --> 00:26:36,620
+- 快点躲开 - 凯特琳 她只是个孩子
+- Scram, kid. - Cait, she's a child.
+
+309
+00:26:36,620 --> 00:26:38,700
+让开 这回她逃不了了
+Move. She's not getting away again.
+
+310
+00:26:39,500 --> 00:26:40,330
+凯特琳
+Cait.
+
+311
+00:26:44,540 --> 00:26:45,700
+让开
+Move.
+
+312
+00:26:45,700 --> 00:26:46,750
+凯特琳
+Cait!
+
+313
+00:27:03,700 --> 00:27:05,910
+不 不应该是这样的
+No, no, this isn't how it's supposed to...
+
+314
+00:28:07,410 --> 00:28:08,250
+快离开这儿
+We have to go now!
+
+315
+00:28:56,450 --> 00:28:57,330
+凯特琳
+Cait.
+
+316
+00:29:03,370 --> 00:29:04,580
+你居然拦我
+You stopped me.
+
+317
+00:29:06,160 --> 00:29:07,540
+我不能看着你犯错
+I shouldn't have had to.
+
+318
+00:29:08,250 --> 00:29:09,830
+我本来有机会的
+I had the shot.
+
+319
+00:29:09,830 --> 00:29:12,490
+那只是个孩子 万一打偏了呢
+That was a kid. What if you missed?
+
+320
+00:29:12,500 --> 00:29:13,830
+我怎么可能打偏
+I wasn't going to miss.
+
+321
+00:29:16,500 --> 00:29:17,660
+你这是怎么了
+What's wrong with you?
+
+322
+00:29:19,330 --> 00:29:21,750
+我一直告诉自己你们俩不一样
+I keep telling myself that you're different.
+
+323
+00:29:22,540 --> 00:29:23,500
+可我错了
+But you're not.
+
+324
+00:29:24,870 --> 00:29:26,540
+你们俩果然是姐妹
+It's her blood in your veins.
+
+325
+00:29:27,160 --> 00:29:29,200
+那为什么你要像她一样呢
+Then why are you the one acting like her?
+
+326
+00:30:48,450 --> 00:30:49,500
+依罗拉
+Elora?
+
+327
+00:30:50,080 --> 00:30:51,000
+你怎么了
+What's wrong?
+
+328
+00:31:07,160 --> 00:31:09,040
+黑色玫瑰
+Black Rose.
+
+329
+00:31:31,200 --> 00:31:33,450
+感谢各位应邀齐聚这里
+Thank you all for answering my summons.
+
+330
+00:31:34,040 --> 00:31:38,160
+我个人对安蓓萨米达尔达的 个人能力是十分钦佩的
+I've come to trust the expertise of Ambessa Medarda.
+
+331
+00:31:38,160 --> 00:31:40,240
+她的名声有口皆碑
+You no doubt recognize the name.
+
+332
+00:31:40,250 --> 00:31:43,830
+我刚刚从她那儿得到了 一些令人沮丧 遗憾
+She's just shared with me some very upsetting,
+
+333
+00:31:43,830 --> 00:31:46,450
+又是意料之中的消息
+but sadly unsurprising, news.
+
+334
+00:31:50,200 --> 00:31:51,370
+晚上好
+Good evening.
+
+335
+00:31:51,950 --> 00:31:55,830
+昨天我与你们商会的阿玛拉见过一面
+Yesterday I met with your guild merchant Amara.
+
+336
+00:31:55,830 --> 00:31:57,740
+商议如何重建城市
+We spoke of rebuilding,
+
+337
+00:31:57,750 --> 00:32:01,370
+怎样让这座伟大的城市恢复往日辉煌
+restoring this great city to its former glory,
+
+338
+00:32:02,000 --> 00:32:03,200
+就在这时
+when 
+
+339
+00:32:03,200 --> 00:32:06,120
+突然闯进来两个底城刺客
+two Zaunite assassins fell upon us.
+
+340
+00:32:06,830 --> 00:32:08,660
+我尽力去救她
+I tried to save her.
+
+341
+00:32:08,660 --> 00:32:10,290
+可她还是丧了命
+But the blade pierced her heart.
+
+342
+00:32:12,500 --> 00:32:15,080
+怎么能任由刺客的刀悬在心头
+Our families should not need fear an assassin's dagger 
+
+343
+00:32:15,080 --> 00:32:17,160
+让大家夜不能寐呢
+in the night.
+
+344
+00:32:17,160 --> 00:32:20,040
+是时候做个了结了
+It's time to end this.
+
+345
+00:32:20,910 --> 00:32:23,870
+你们一次又一次给底城机会
+You've given Zaun opportunity after opportunity
+
+346
+00:32:23,870 --> 00:32:25,450
+让他们弥补罪过
+to repair their wrongs,
+
+347
+00:32:25,450 --> 00:32:27,410
+可结果又怎么样
+and how have they answered?
+
+348
+00:32:30,910 --> 00:32:33,330
+一半的议员被杀了
+Half your council is dead.
+
+349
+00:32:35,160 --> 00:32:37,700
+就连追思会也不放过
+Your memorial is made a massacre.
+
+350
+00:32:40,200 --> 00:32:42,040
+简直不可饶恕
+Well, no more.
+
+351
+00:32:42,870 --> 00:32:46,120
+血债必须要用血来偿还
+Wrath must be met with wrath.
+
+352
+00:32:50,000 --> 00:32:52,790
+必须即刻昭告天下
+You must declare martial law.
+
+353
+00:32:52,790 --> 00:32:54,910
+任命一位将军来统领
+Appoint a general to lead 
+
+354
+00:32:54,910 --> 00:32:56,660
+直到威胁解除
+until this threat is vanquished.
+
+355
+00:32:56,660 --> 00:33:00,450
+这名将军必须有魄力应对底城的堕落
+Someone who will not pale when faced with Zaun's degeneracy.
+
+356
+00:33:00,450 --> 00:33:03,040
+并且一定要坚定不移
+Whose conviction never wavers.
+
+357
+00:33:03,540 --> 00:33:05,990
+他还应当是社会的栋梁
+A pillar of your community
+
+358
+00:33:06,000 --> 00:33:08,830
+其家族始终拥护进步发展
+whose house has always stood for progress.
+
+359
+00:33:08,830 --> 00:33:11,620
+并且还要善于运筹帷幄
+Who may consider my experience
+
+360
+00:33:11,620 --> 00:33:17,250
+我以及我率领的 诺克萨斯部队都将听他调遣
+and my entire detachment of Noxian soldiers at their disposal.
+
+361
+00:33:20,750 --> 00:33:22,120
+只有这样
+Until all 
+
+362
+00:33:22,120 --> 00:33:25,160
+才能确保所有人平安无事
+our families are safe.
+
+363
+00:33:25,750 --> 00:33:26,580
+所以
+Of course, 
+
+364
+00:33:27,080 --> 00:33:29,200
+此等的重任 只能交给
+I could only be referring to...
+
+365
+00:33:34,080 --> 00:33:36,750
+凯特琳吉拉曼恩
+Caitlyn Kiramman.
+
+366
+00:34:19,080 --> 00:34:20,660
+为你儿子报仇
+Vengeance for your son.
+
+367
+00:34:34,160 --> 00:34:35,500
+是你
+It's you.
+
+368
+00:34:55,040 --> 00:34:56,200
+来吧 孩子
+Come, child.
+
+369
+00:35:33,410 --> 00:35:35,700
+一定会还你母亲一个公道
+Your mother will have justice.
+
+370
+00:35:36,830 --> 00:35:37,830
+我发誓
+I swear it.
+
+371
+00:38:46,080 --> 00:38:48,580
+字幕翻译: 付博文 韩一旻
+
